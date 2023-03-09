@@ -1,0 +1,2259 @@
+Date,County,State,Cases,Deaths
+21/01/2020,Snohomish,Washington,1,0
+22/01/2020,Snohomish,Washington,1,0
+23/01/2020,Snohomish,Washington,1,0
+24/01/2020,Cook,Illinois,1,0
+24/01/2020,Snohomish,Washington,1,0
+25/01/2020,Orange,California,1,0
+25/01/2020,Cook,Illinois,1,0
+25/01/2020,Snohomish,Washington,1,0
+26/01/2020,Maricopa,Arizona,1,0
+26/01/2020,Los Angeles,California,1,0
+26/01/2020,Orange,California,1,0
+26/01/2020,Cook,Illinois,1,0
+26/01/2020,Snohomish,Washington,1,0
+27/01/2020,Maricopa,Arizona,1,0
+27/01/2020,Los Angeles,California,1,0
+27/01/2020,Orange,California,1,0
+27/01/2020,Cook,Illinois,1,0
+27/01/2020,Snohomish,Washington,1,0
+28/01/2020,Maricopa,Arizona,1,0
+28/01/2020,Los Angeles,California,1,0
+28/01/2020,Orange,California,1,0
+28/01/2020,Cook,Illinois,1,0
+28/01/2020,Snohomish,Washington,1,0
+29/01/2020,Maricopa,Arizona,1,0
+29/01/2020,Los Angeles,California,1,0
+29/01/2020,Orange,California,1,0
+29/01/2020,Cook,Illinois,1,0
+29/01/2020,Snohomish,Washington,1,0
+30/01/2020,Maricopa,Arizona,1,0
+30/01/2020,Los Angeles,California,1,0
+30/01/2020,Orange,California,1,0
+30/01/2020,Cook,Illinois,2,0
+30/01/2020,Snohomish,Washington,1,0
+31/01/2020,Maricopa,Arizona,1,0
+31/01/2020,Los Angeles,California,1,0
+31/01/2020,Orange,California,1,0
+31/01/2020,Santa Clara,California,1,0
+31/01/2020,Cook,Illinois,2,0
+31/01/2020,Snohomish,Washington,1,0
+1/2/2020,Maricopa,Arizona,1,0
+1/2/2020,Los Angeles,California,1,0
+1/2/2020,Orange,California,1,0
+1/2/2020,Santa Clara,California,1,0
+1/2/2020,Cook,Illinois,2,0
+1/2/2020,Suffolk,Massachusetts,1,0
+1/2/2020,Snohomish,Washington,1,0
+2/2/2020,Maricopa,Arizona,1,0
+2/2/2020,Los Angeles,California,1,0
+2/2/2020,Orange,California,1,0
+2/2/2020,San Francisco,California,2,0
+2/2/2020,Santa Clara,California,2,0
+2/2/2020,Cook,Illinois,2,0
+2/2/2020,Suffolk,Massachusetts,1,0
+2/2/2020,Snohomish,Washington,1,0
+3/2/2020,Maricopa,Arizona,1,0
+3/2/2020,Los Angeles,California,1,0
+3/2/2020,Orange,California,1,0
+3/2/2020,San Francisco,California,2,0
+3/2/2020,Santa Clara,California,2,0
+3/2/2020,Cook,Illinois,2,0
+3/2/2020,Suffolk,Massachusetts,1,0
+3/2/2020,Snohomish,Washington,1,0
+4/2/2020,Maricopa,Arizona,1,0
+4/2/2020,Los Angeles,California,1,0
+4/2/2020,Orange,California,1,0
+4/2/2020,San Francisco,California,2,0
+4/2/2020,Santa Clara,California,2,0
+4/2/2020,Cook,Illinois,2,0
+4/2/2020,Suffolk,Massachusetts,1,0
+4/2/2020,Snohomish,Washington,1,0
+5/2/2020,Maricopa,Arizona,1,0
+5/2/2020,Los Angeles,California,1,0
+5/2/2020,Orange,California,1,0
+5/2/2020,San Francisco,California,2,0
+5/2/2020,Santa Clara,California,2,0
+5/2/2020,Cook,Illinois,2,0
+5/2/2020,Suffolk,Massachusetts,1,0
+5/2/2020,Snohomish,Washington,1,0
+5/2/2020,Dane,Wisconsin,1,0
+6/2/2020,Maricopa,Arizona,1,0
+6/2/2020,Los Angeles,California,1,0
+6/2/2020,Orange,California,1,0
+6/2/2020,San Francisco,California,2,0
+6/2/2020,Santa Clara,California,2,0
+6/2/2020,Cook,Illinois,2,0
+6/2/2020,Suffolk,Massachusetts,1,0
+6/2/2020,Snohomish,Washington,1,0
+6/2/2020,Dane,Wisconsin,1,0
+7/2/2020,Maricopa,Arizona,1,0
+7/2/2020,Los Angeles,California,1,0
+7/2/2020,Orange,California,1,0
+7/2/2020,San Francisco,California,2,0
+7/2/2020,Santa Clara,California,2,0
+7/2/2020,Cook,Illinois,2,0
+7/2/2020,Suffolk,Massachusetts,1,0
+7/2/2020,Snohomish,Washington,1,0
+7/2/2020,Dane,Wisconsin,1,0
+8/2/2020,Maricopa,Arizona,1,0
+8/2/2020,Los Angeles,California,1,0
+8/2/2020,Orange,California,1,0
+8/2/2020,San Francisco,California,2,0
+8/2/2020,Santa Clara,California,2,0
+8/2/2020,Cook,Illinois,2,0
+8/2/2020,Suffolk,Massachusetts,1,0
+8/2/2020,Snohomish,Washington,1,0
+8/2/2020,Dane,Wisconsin,1,0
+9/2/2020,Maricopa,Arizona,1,0
+9/2/2020,Los Angeles,California,1,0
+9/2/2020,Orange,California,1,0
+9/2/2020,San Francisco,California,2,0
+9/2/2020,Santa Clara,California,2,0
+9/2/2020,Cook,Illinois,2,0
+9/2/2020,Suffolk,Massachusetts,1,0
+9/2/2020,Snohomish,Washington,1,0
+9/2/2020,Dane,Wisconsin,1,0
+10/2/2020,Maricopa,Arizona,1,0
+10/2/2020,Los Angeles,California,1,0
+10/2/2020,Orange,California,1,0
+10/2/2020,San Diego,California,1,0
+10/2/2020,San Francisco,California,2,0
+10/2/2020,Santa Clara,California,2,0
+10/2/2020,Cook,Illinois,2,0
+10/2/2020,Suffolk,Massachusetts,1,0
+10/2/2020,Snohomish,Washington,1,0
+10/2/2020,Dane,Wisconsin,1,0
+11/2/2020,Maricopa,Arizona,1,0
+11/2/2020,Los Angeles,California,1,0
+11/2/2020,Orange,California,1,0
+11/2/2020,San Diego,California,1,0
+11/2/2020,San Francisco,California,2,0
+11/2/2020,Santa Clara,California,2,0
+11/2/2020,Cook,Illinois,2,0
+11/2/2020,Suffolk,Massachusetts,1,0
+11/2/2020,Snohomish,Washington,1,0
+11/2/2020,Dane,Wisconsin,1,0
+12/2/2020,Maricopa,Arizona,1,0
+12/2/2020,Los Angeles,California,1,0
+12/2/2020,Orange,California,1,0
+12/2/2020,San Diego,California,1,0
+12/2/2020,San Francisco,California,2,0
+12/2/2020,Santa Clara,California,2,0
+12/2/2020,Cook,Illinois,2,0
+12/2/2020,Suffolk,Massachusetts,1,0
+12/2/2020,Bexar,Texas,1,0
+12/2/2020,Snohomish,Washington,1,0
+12/2/2020,Dane,Wisconsin,1,0
+13/02/2020,Maricopa,Arizona,1,0
+13/02/2020,Los Angeles,California,1,0
+13/02/2020,Orange,California,1,0
+13/02/2020,San Diego,California,1,0
+13/02/2020,San Francisco,California,2,0
+13/02/2020,Santa Clara,California,2,0
+13/02/2020,Cook,Illinois,2,0
+13/02/2020,Suffolk,Massachusetts,1,0
+13/02/2020,Bexar,Texas,2,0
+13/02/2020,Snohomish,Washington,1,0
+13/02/2020,Dane,Wisconsin,1,0
+14/02/2020,Maricopa,Arizona,1,0
+14/02/2020,Los Angeles,California,1,0
+14/02/2020,Orange,California,1,0
+14/02/2020,San Diego,California,1,0
+14/02/2020,San Francisco,California,2,0
+14/02/2020,Santa Clara,California,2,0
+14/02/2020,Cook,Illinois,2,0
+14/02/2020,Suffolk,Massachusetts,1,0
+14/02/2020,Bexar,Texas,2,0
+14/02/2020,Snohomish,Washington,1,0
+14/02/2020,Dane,Wisconsin,1,0
+15/02/2020,Maricopa,Arizona,1,0
+15/02/2020,Los Angeles,California,1,0
+15/02/2020,Orange,California,1,0
+15/02/2020,San Diego,California,1,0
+15/02/2020,San Francisco,California,2,0
+15/02/2020,Santa Clara,California,2,0
+15/02/2020,Cook,Illinois,2,0
+15/02/2020,Suffolk,Massachusetts,1,0
+15/02/2020,Bexar,Texas,2,0
+15/02/2020,Snohomish,Washington,1,0
+15/02/2020,Dane,Wisconsin,1,0
+16/02/2020,Maricopa,Arizona,1,0
+16/02/2020,Los Angeles,California,1,0
+16/02/2020,Orange,California,1,0
+16/02/2020,San Diego,California,1,0
+16/02/2020,San Francisco,California,2,0
+16/02/2020,Santa Clara,California,2,0
+16/02/2020,Cook,Illinois,2,0
+16/02/2020,Suffolk,Massachusetts,1,0
+16/02/2020,Bexar,Texas,2,0
+16/02/2020,Snohomish,Washington,1,0
+16/02/2020,Dane,Wisconsin,1,0
+17/02/2020,Maricopa,Arizona,1,0
+17/02/2020,Los Angeles,California,1,0
+17/02/2020,Orange,California,1,0
+17/02/2020,San Diego,California,1,0
+17/02/2020,San Francisco,California,2,0
+17/02/2020,Santa Clara,California,2,0
+17/02/2020,Cook,Illinois,2,0
+17/02/2020,Suffolk,Massachusetts,1,0
+17/02/2020,Douglas,Nebraska,10,0
+17/02/2020,Bexar,Texas,2,0
+17/02/2020,Snohomish,Washington,1,0
+17/02/2020,Dane,Wisconsin,1,0
+18/02/2020,Maricopa,Arizona,1,0
+18/02/2020,Los Angeles,California,1,0
+18/02/2020,Orange,California,1,0
+18/02/2020,San Diego,California,1,0
+18/02/2020,San Francisco,California,2,0
+18/02/2020,Santa Clara,California,2,0
+18/02/2020,Cook,Illinois,2,0
+18/02/2020,Suffolk,Massachusetts,1,0
+18/02/2020,Douglas,Nebraska,10,0
+18/02/2020,Bexar,Texas,2,0
+18/02/2020,Snohomish,Washington,1,0
+18/02/2020,Dane,Wisconsin,1,0
+19/02/2020,Maricopa,Arizona,1,0
+19/02/2020,Los Angeles,California,1,0
+19/02/2020,Orange,California,1,0
+19/02/2020,San Diego,California,1,0
+19/02/2020,San Francisco,California,2,0
+19/02/2020,Santa Clara,California,2,0
+19/02/2020,Cook,Illinois,2,0
+19/02/2020,Suffolk,Massachusetts,1,0
+19/02/2020,Douglas,Nebraska,10,0
+19/02/2020,Bexar,Texas,2,0
+19/02/2020,Snohomish,Washington,1,0
+19/02/2020,Dane,Wisconsin,1,0
+20/02/2020,Maricopa,Arizona,1,0
+20/02/2020,Humboldt,California,1,0
+20/02/2020,Los Angeles,California,1,0
+20/02/2020,Orange,California,1,0
+20/02/2020,San Diego,California,1,0
+20/02/2020,San Francisco,California,2,0
+20/02/2020,Santa Clara,California,2,0
+20/02/2020,Cook,Illinois,2,0
+20/02/2020,Suffolk,Massachusetts,1,0
+20/02/2020,Douglas,Nebraska,11,0
+20/02/2020,Bexar,Texas,2,0
+20/02/2020,Snohomish,Washington,1,0
+20/02/2020,Dane,Wisconsin,1,0
+21/02/2020,Maricopa,Arizona,1,0
+21/02/2020,Humboldt,California,1,0
+21/02/2020,Los Angeles,California,1,0
+21/02/2020,Orange,California,1,0
+21/02/2020,Sacramento,California,1,0
+21/02/2020,San Diego,California,1,0
+21/02/2020,San Francisco,California,2,0
+21/02/2020,Santa Clara,California,2,0
+21/02/2020,Cook,Illinois,2,0
+21/02/2020,Suffolk,Massachusetts,1,0
+21/02/2020,Douglas,Nebraska,11,0
+21/02/2020,Bexar,Texas,4,0
+21/02/2020,Snohomish,Washington,1,0
+21/02/2020,Dane,Wisconsin,1,0
+22/02/2020,Maricopa,Arizona,1,0
+22/02/2020,Humboldt,California,1,0
+22/02/2020,Los Angeles,California,1,0
+22/02/2020,Orange,California,1,0
+22/02/2020,Sacramento,California,1,0
+22/02/2020,San Diego,California,1,0
+22/02/2020,San Francisco,California,2,0
+22/02/2020,Santa Clara,California,2,0
+22/02/2020,Cook,Illinois,2,0
+22/02/2020,Suffolk,Massachusetts,1,0
+22/02/2020,Douglas,Nebraska,11,0
+22/02/2020,Bexar,Texas,4,0
+22/02/2020,Snohomish,Washington,1,0
+22/02/2020,Dane,Wisconsin,1,0
+23/02/2020,Maricopa,Arizona,1,0
+23/02/2020,Humboldt,California,1,0
+23/02/2020,Los Angeles,California,1,0
+23/02/2020,Orange,California,1,0
+23/02/2020,Sacramento,California,1,0
+23/02/2020,San Diego,California,1,0
+23/02/2020,San Francisco,California,2,0
+23/02/2020,Santa Clara,California,2,0
+23/02/2020,Cook,Illinois,2,0
+23/02/2020,Suffolk,Massachusetts,1,0
+23/02/2020,Douglas,Nebraska,11,0
+23/02/2020,Bexar,Texas,4,0
+23/02/2020,Snohomish,Washington,1,0
+23/02/2020,Dane,Wisconsin,1,0
+24/02/2020,Maricopa,Arizona,1,0
+24/02/2020,Humboldt,California,1,0
+24/02/2020,Los Angeles,California,1,0
+24/02/2020,Orange,California,1,0
+24/02/2020,Sacramento,California,1,0
+24/02/2020,San Diego,California,1,0
+24/02/2020,San Francisco,California,3,0
+24/02/2020,Santa Clara,California,2,0
+24/02/2020,Solano,California,1,0
+24/02/2020,Cook,Illinois,2,0
+24/02/2020,Suffolk,Massachusetts,1,0
+24/02/2020,Douglas,Nebraska,12,0
+24/02/2020,Bexar,Texas,10,0
+24/02/2020,Snohomish,Washington,1,0
+24/02/2020,Spokane,Washington,4,0
+24/02/2020,Dane,Wisconsin,1,0
+25/02/2020,Maricopa,Arizona,1,0
+25/02/2020,Humboldt,California,1,0
+25/02/2020,Los Angeles,California,1,0
+25/02/2020,Orange,California,1,0
+25/02/2020,Sacramento,California,1,0
+25/02/2020,San Diego,California,1,0
+25/02/2020,San Francisco,California,3,0
+25/02/2020,Santa Clara,California,2,0
+25/02/2020,Solano,California,1,0
+25/02/2020,Cook,Illinois,2,0
+25/02/2020,Suffolk,Massachusetts,1,0
+25/02/2020,Douglas,Nebraska,13,0
+25/02/2020,Bexar,Texas,10,0
+25/02/2020,Salt Lake,Utah,1,0
+25/02/2020,Snohomish,Washington,1,0
+25/02/2020,Spokane,Washington,4,0
+25/02/2020,Dane,Wisconsin,1,0
+26/02/2020,Maricopa,Arizona,1,0
+26/02/2020,Humboldt,California,1,0
+26/02/2020,Los Angeles,California,1,0
+26/02/2020,Marin,California,1,0
+26/02/2020,Napa,California,1,0
+26/02/2020,Orange,California,1,0
+26/02/2020,Sacramento,California,3,0
+26/02/2020,San Diego,California,1,0
+26/02/2020,San Francisco,California,3,0
+26/02/2020,Santa Clara,California,2,0
+26/02/2020,Solano,California,11,0
+26/02/2020,Sonoma,California,1,0
+26/02/2020,Cook,Illinois,2,0
+26/02/2020,Suffolk,Massachusetts,1,0
+26/02/2020,Douglas,Nebraska,13,0
+26/02/2020,Bexar,Texas,10,0
+26/02/2020,Salt Lake,Utah,1,0
+26/02/2020,Snohomish,Washington,1,0
+26/02/2020,Spokane,Washington,4,0
+26/02/2020,Dane,Wisconsin,1,0
+27/02/2020,Maricopa,Arizona,1,0
+27/02/2020,Humboldt,California,1,0
+27/02/2020,Los Angeles,California,1,0
+27/02/2020,Marin,California,1,0
+27/02/2020,Napa,California,1,0
+27/02/2020,Orange,California,1,0
+27/02/2020,Sacramento,California,3,0
+27/02/2020,San Diego,California,1,0
+27/02/2020,San Francisco,California,3,0
+27/02/2020,Santa Clara,California,2,0
+27/02/2020,Solano,California,11,0
+27/02/2020,Sonoma,California,1,0
+27/02/2020,Cook,Illinois,2,0
+27/02/2020,Suffolk,Massachusetts,1,0
+27/02/2020,Douglas,Nebraska,13,0
+27/02/2020,Bexar,Texas,10,0
+27/02/2020,Salt Lake,Utah,1,0
+27/02/2020,Snohomish,Washington,1,0
+27/02/2020,Spokane,Washington,4,0
+27/02/2020,Dane,Wisconsin,1,0
+28/02/2020,Maricopa,Arizona,1,0
+28/02/2020,Humboldt,California,1,0
+28/02/2020,Los Angeles,California,1,0
+28/02/2020,Marin,California,1,0
+28/02/2020,Napa,California,1,0
+28/02/2020,Orange,California,1,0
+28/02/2020,Sacramento,California,3,0
+28/02/2020,San Diego,California,1,0
+28/02/2020,San Francisco,California,3,0
+28/02/2020,Santa Clara,California,3,0
+28/02/2020,Solano,California,11,0
+28/02/2020,Sonoma,California,1,0
+28/02/2020,Cook,Illinois,2,0
+28/02/2020,Suffolk,Massachusetts,1,0
+28/02/2020,Douglas,Nebraska,13,0
+28/02/2020,Washington,Oregon,1,0
+28/02/2020,Bexar,Texas,11,0
+28/02/2020,Salt Lake,Utah,1,0
+28/02/2020,King,Washington,1,0
+28/02/2020,Snohomish,Washington,2,0
+28/02/2020,Spokane,Washington,4,0
+28/02/2020,Dane,Wisconsin,1,0
+29/02/2020,Maricopa,Arizona,1,0
+29/02/2020,Humboldt,California,1,0
+29/02/2020,Los Angeles,California,1,0
+29/02/2020,Marin,California,1,0
+29/02/2020,Napa,California,1,0
+29/02/2020,Orange,California,1,0
+29/02/2020,Sacramento,California,3,0
+29/02/2020,San Diego,California,1,0
+29/02/2020,San Francisco,California,3,0
+29/02/2020,Santa Clara,California,4,0
+29/02/2020,Solano,California,11,0
+29/02/2020,Sonoma,California,1,0
+29/02/2020,Cook,Illinois,3,0
+29/02/2020,Suffolk,Massachusetts,1,0
+29/02/2020,Douglas,Nebraska,13,0
+29/02/2020,Washington,Oregon,1,0
+29/02/2020,Bexar,Texas,11,0
+29/02/2020,Salt Lake,Utah,1,0
+29/02/2020,King,Washington,4,1
+29/02/2020,Snohomish,Washington,2,0
+29/02/2020,Spokane,Washington,4,0
+29/02/2020,Dane,Wisconsin,1,0
+1/3/2020,Maricopa,Arizona,1,0
+1/3/2020,Alameda,California,1,0
+1/3/2020,Humboldt,California,1,0
+1/3/2020,Los Angeles,California,1,0
+1/3/2020,Marin,California,1,0
+1/3/2020,Napa,California,1,0
+1/3/2020,Orange,California,1,0
+1/3/2020,Sacramento,California,3,0
+1/3/2020,San Diego,California,1,0
+1/3/2020,San Francisco,California,3,0
+1/3/2020,Santa Clara,California,7,0
+1/3/2020,Solano,California,12,0
+1/3/2020,Sonoma,California,1,0
+1/3/2020,Hillsborough,Florida,1,0
+1/3/2020,Manatee,Florida,1,0
+1/3/2020,Cook,Illinois,3,0
+1/3/2020,Suffolk,Massachusetts,1,0
+1/3/2020,Douglas,Nebraska,13,0
+1/3/2020,New York City,New York,1,0
+1/3/2020,Washington,Oregon,2,0
+1/3/2020,Unknown,Rhode Island,2,0
+1/3/2020,Bexar,Texas,11,0
+1/3/2020,Salt Lake,Utah,1,0
+1/3/2020,King,Washington,11,3
+1/3/2020,Snohomish,Washington,2,0
+1/3/2020,Spokane,Washington,4,0
+1/3/2020,Dane,Wisconsin,1,0
+2/3/2020,Maricopa,Arizona,1,0
+2/3/2020,Alameda,California,1,0
+2/3/2020,Humboldt,California,1,0
+2/3/2020,Los Angeles,California,1,0
+2/3/2020,Marin,California,1,0
+2/3/2020,Napa,California,1,0
+2/3/2020,Orange,California,1,0
+2/3/2020,Placer,California,1,0
+2/3/2020,Sacramento,California,3,0
+2/3/2020,San Diego,California,1,0
+2/3/2020,San Francisco,California,3,0
+2/3/2020,San Mateo,California,1,0
+2/3/2020,Santa Clara,California,9,0
+2/3/2020,Solano,California,12,0
+2/3/2020,Sonoma,California,2,0
+2/3/2020,Hillsborough,Florida,1,0
+2/3/2020,Manatee,Florida,1,0
+2/3/2020,Fulton,Georgia,2,0
+2/3/2020,Cook,Illinois,4,0
+2/3/2020,Norfolk,Massachusetts,1,0
+2/3/2020,Suffolk,Massachusetts,1,0
+2/3/2020,Douglas,Nebraska,13,0
+2/3/2020,Grafton,New Hampshire,1,0
+2/3/2020,New York City,New York,1,0
+2/3/2020,Washington,Oregon,2,0
+2/3/2020,Unknown,Rhode Island,2,0
+2/3/2020,Bexar,Texas,11,0
+2/3/2020,Salt Lake,Utah,1,0
+2/3/2020,King,Washington,15,6
+2/3/2020,Snohomish,Washington,3,0
+2/3/2020,Spokane,Washington,4,0
+2/3/2020,Walla Walla,Washington,1,0
+2/3/2020,Dane,Wisconsin,1,0
+3/3/2020,Maricopa,Arizona,2,0
+3/3/2020,Alameda,California,2,0
+3/3/2020,Contra Costa,California,1,0
+3/3/2020,Humboldt,California,1,0
+3/3/2020,Los Angeles,California,1,0
+3/3/2020,Marin,California,1,0
+3/3/2020,Napa,California,1,0
+3/3/2020,Orange,California,3,0
+3/3/2020,Placer,California,2,0
+3/3/2020,Sacramento,California,3,0
+3/3/2020,San Diego,California,1,0
+3/3/2020,San Francisco,California,3,0
+3/3/2020,San Mateo,California,1,0
+3/3/2020,Santa Clara,California,11,0
+3/3/2020,Solano,California,12,0
+3/3/2020,Sonoma,California,2,0
+3/3/2020,Hillsborough,Florida,2,0
+3/3/2020,Manatee,Florida,1,0
+3/3/2020,Fulton,Georgia,2,0
+3/3/2020,Cook,Illinois,4,0
+3/3/2020,Norfolk,Massachusetts,1,0
+3/3/2020,Suffolk,Massachusetts,1,0
+3/3/2020,Douglas,Nebraska,13,0
+3/3/2020,Grafton,New Hampshire,2,0
+3/3/2020,New York City,New York,2,0
+3/3/2020,Wake,North Carolina,1,0
+3/3/2020,Washington,Oregon,2,0
+3/3/2020,Unknown,Rhode Island,2,0
+3/3/2020,Bexar,Texas,11,0
+3/3/2020,Salt Lake,Utah,1,0
+3/3/2020,King,Washington,22,10
+3/3/2020,Snohomish,Washington,5,0
+3/3/2020,Spokane,Washington,4,0
+3/3/2020,Walla Walla,Washington,1,0
+3/3/2020,Dane,Wisconsin,1,0
+4/3/2020,Maricopa,Arizona,2,0
+4/3/2020,Alameda,California,2,0
+4/3/2020,Contra Costa,California,1,0
+4/3/2020,Humboldt,California,1,0
+4/3/2020,Los Angeles,California,7,0
+4/3/2020,Marin,California,1,0
+4/3/2020,Napa,California,1,0
+4/3/2020,Orange,California,3,0
+4/3/2020,Placer,California,2,1
+4/3/2020,Sacramento,California,3,0
+4/3/2020,San Diego,California,1,0
+4/3/2020,San Francisco,California,3,0
+4/3/2020,San Mateo,California,1,0
+4/3/2020,Santa Clara,California,14,0
+4/3/2020,Solano,California,12,0
+4/3/2020,Sonoma,California,3,0
+4/3/2020,Hillsborough,Florida,2,0
+4/3/2020,Manatee,Florida,1,0
+4/3/2020,Fulton,Georgia,2,0
+4/3/2020,Cook,Illinois,4,0
+4/3/2020,Norfolk,Massachusetts,1,0
+4/3/2020,Suffolk,Massachusetts,1,0
+4/3/2020,Douglas,Nebraska,13,0
+4/3/2020,Grafton,New Hampshire,2,0
+4/3/2020,Bergen,New Jersey,1,0
+4/3/2020,New York City,New York,2,0
+4/3/2020,Westchester,New York,9,0
+4/3/2020,Wake,North Carolina,1,0
+4/3/2020,Washington,Oregon,2,0
+4/3/2020,Unknown,Rhode Island,2,0
+4/3/2020,Bexar,Texas,11,0
+4/3/2020,Fort Bend,Texas,1,0
+4/3/2020,Salt Lake,Utah,1,0
+4/3/2020,Chelan,Washington,1,0
+4/3/2020,King,Washington,33,11
+4/3/2020,Snohomish,Washington,8,0
+4/3/2020,Spokane,Washington,4,0
+4/3/2020,Walla Walla,Washington,1,0
+4/3/2020,Dane,Wisconsin,1,0
+5/3/2020,Maricopa,Arizona,2,0
+5/3/2020,Alameda,California,2,0
+5/3/2020,Contra Costa,California,1,0
+5/3/2020,Humboldt,California,1,0
+5/3/2020,Los Angeles,California,11,0
+5/3/2020,Marin,California,1,0
+5/3/2020,Napa,California,1,0
+5/3/2020,Orange,California,3,0
+5/3/2020,Placer,California,2,1
+5/3/2020,Sacramento,California,3,0
+5/3/2020,San Diego,California,1,0
+5/3/2020,San Francisco,California,5,0
+5/3/2020,San Mateo,California,1,0
+5/3/2020,Santa Clara,California,20,0
+5/3/2020,Solano,California,12,0
+5/3/2020,Sonoma,California,3,0
+5/3/2020,Douglas,Colorado,1,0
+5/3/2020,Jefferson,Colorado,1,0
+5/3/2020,Hillsborough,Florida,2,0
+5/3/2020,Manatee,Florida,1,0
+5/3/2020,Santa Rosa,Florida,1,0
+5/3/2020,Fulton,Georgia,2,0
+5/3/2020,Cook,Illinois,5,0
+5/3/2020,Montgomery,Maryland,3,0
+5/3/2020,Middlesex,Massachusetts,1,0
+5/3/2020,Norfolk,Massachusetts,1,0
+5/3/2020,Suffolk,Massachusetts,1,0
+5/3/2020,Douglas,Nebraska,13,0
+5/3/2020,Clark,Nevada,1,0
+5/3/2020,Washoe,Nevada,1,0
+5/3/2020,Grafton,New Hampshire,2,0
+5/3/2020,Bergen,New Jersey,2,0
+5/3/2020,Nassau,New York,1,0
+5/3/2020,New York City,New York,4,0
+5/3/2020,Westchester,New York,17,0
+5/3/2020,Wake,North Carolina,1,0
+5/3/2020,Washington,Oregon,2,0
+5/3/2020,Unknown,Rhode Island,2,0
+5/3/2020,Williamson,Tennessee,1,0
+5/3/2020,Bexar,Texas,11,0
+5/3/2020,Fort Bend,Texas,1,0
+5/3/2020,Harris,Texas,4,0
+5/3/2020,Salt Lake,Utah,1,0
+5/3/2020,Chelan,Washington,1,0
+5/3/2020,King,Washington,52,11
+5/3/2020,Snohomish,Washington,17,0
+5/3/2020,Spokane,Washington,4,0
+5/3/2020,Walla Walla,Washington,1,0
+5/3/2020,Dane,Wisconsin,1,0
+6/3/2020,Maricopa,Arizona,2,0
+6/3/2020,Pinal,Arizona,1,0
+6/3/2020,Alameda,California,3,0
+6/3/2020,Contra Costa,California,4,0
+6/3/2020,Humboldt,California,1,0
+6/3/2020,Los Angeles,California,13,0
+6/3/2020,Marin,California,1,0
+6/3/2020,Napa,California,1,0
+6/3/2020,Orange,California,3,0
+6/3/2020,Placer,California,5,1
+6/3/2020,Sacramento,California,3,0
+6/3/2020,San Diego,California,1,0
+6/3/2020,San Francisco,California,5,0
+6/3/2020,San Mateo,California,1,0
+6/3/2020,Santa Clara,California,24,0
+6/3/2020,Solano,California,12,0
+6/3/2020,Sonoma,California,3,0
+6/3/2020,Yolo,California,1,0
+6/3/2020,Denver,Colorado,2,0
+6/3/2020,Douglas,Colorado,3,0
+6/3/2020,Eagle,Colorado,1,0
+6/3/2020,El Paso,Colorado,1,0
+6/3/2020,Jefferson,Colorado,1,0
+6/3/2020,Broward,Florida,2,0
+6/3/2020,Hillsborough,Florida,2,0
+6/3/2020,Lee,Florida,1,1
+6/3/2020,Manatee,Florida,1,0
+6/3/2020,Santa Rosa,Florida,1,1
+6/3/2020,Fulton,Georgia,2,0
+6/3/2020,Polk,Georgia,1,0
+6/3/2020,Honolulu,Hawaii,1,0
+6/3/2020,Cook,Illinois,6,0
+6/3/2020,Marion,Indiana,1,0
+6/3/2020,Fayette,Kentucky,1,0
+6/3/2020,Montgomery,Maryland,3,0
+6/3/2020,Middlesex,Massachusetts,1,0
+6/3/2020,Norfolk,Massachusetts,3,0
+6/3/2020,Suffolk,Massachusetts,4,0
+6/3/2020,Ramsey,Minnesota,1,0
+6/3/2020,Douglas,Nebraska,14,0
+6/3/2020,Clark,Nevada,1,0
+6/3/2020,Washoe,Nevada,1,0
+6/3/2020,Grafton,New Hampshire,2,0
+6/3/2020,Bergen,New Jersey,3,0
+6/3/2020,Camden,New Jersey,1,0
+6/3/2020,Nassau,New York,4,0
+6/3/2020,New York City,New York,5,0
+6/3/2020,Rockland,New York,2,0
+6/3/2020,Westchester,New York,33,0
+6/3/2020,Chatham,North Carolina,1,0
+6/3/2020,Wake,North Carolina,1,0
+6/3/2020,Tulsa,Oklahoma,1,0
+6/3/2020,Washington,Oregon,2,0
+6/3/2020,Delaware,Pennsylvania,1,0
+6/3/2020,Wayne,Pennsylvania,1,0
+6/3/2020,Unknown,Rhode Island,3,0
+6/3/2020,Charleston,South Carolina,1,0
+6/3/2020,Kershaw,South Carolina,1,0
+6/3/2020,Williamson,Tennessee,1,0
+6/3/2020,Bexar,Texas,11,0
+6/3/2020,Fort Bend,Texas,3,0
+6/3/2020,Harris,Texas,5,0
+6/3/2020,Davis,Utah,1,0
+6/3/2020,Salt Lake,Utah,1,0
+6/3/2020,Washington,Utah,1,0
+6/3/2020,Chelan,Washington,1,0
+6/3/2020,Clark,Washington,1,0
+6/3/2020,Jefferson,Washington,1,0
+6/3/2020,King,Washington,59,12
+6/3/2020,Pierce,Washington,1,0
+6/3/2020,Snohomish,Washington,18,0
+6/3/2020,Spokane,Washington,4,0
+6/3/2020,Walla Walla,Washington,1,0
+6/3/2020,Dane,Wisconsin,1,0
+7/3/2020,Maricopa,Arizona,2,0
+7/3/2020,Pinal,Arizona,3,0
+7/3/2020,Alameda,California,3,0
+7/3/2020,Contra Costa,California,4,0
+7/3/2020,Fresno,California,1,0
+7/3/2020,Humboldt,California,1,0
+7/3/2020,Los Angeles,California,14,0
+7/3/2020,Madera,California,1,0
+7/3/2020,Marin,California,1,0
+7/3/2020,Napa,California,1,0
+7/3/2020,Orange,California,3,0
+7/3/2020,Placer,California,5,1
+7/3/2020,Riverside,California,1,0
+7/3/2020,Sacramento,California,3,0
+7/3/2020,San Diego,California,1,0
+7/3/2020,San Francisco,California,11,0
+7/3/2020,San Mateo,California,1,0
+7/3/2020,Santa Clara,California,32,0
+7/3/2020,Santa Cruz,California,1,0
+7/3/2020,Solano,California,12,0
+7/3/2020,Sonoma,California,3,0
+7/3/2020,Yolo,California,1,0
+7/3/2020,Denver,Colorado,2,0
+7/3/2020,Douglas,Colorado,3,0
+7/3/2020,Eagle,Colorado,1,0
+7/3/2020,El Paso,Colorado,1,0
+7/3/2020,Jefferson,Colorado,1,0
+7/3/2020,District of Columbia,District of Columbia,1,0
+7/3/2020,Broward,Florida,2,0
+7/3/2020,Charlotte,Florida,1,0
+7/3/2020,Hillsborough,Florida,2,0
+7/3/2020,Lee,Florida,2,1
+7/3/2020,Manatee,Florida,2,0
+7/3/2020,Okaloosa,Florida,1,0
+7/3/2020,Santa Rosa,Florida,1,1
+7/3/2020,Volusia,Florida,1,0
+7/3/2020,Cobb,Georgia,1,0
+7/3/2020,Fulton,Georgia,4,0
+7/3/2020,Gwinnett,Georgia,1,0
+7/3/2020,Polk,Georgia,1,0
+7/3/2020,Honolulu,Hawaii,1,0
+7/3/2020,Cook,Illinois,6,0
+7/3/2020,Marion,Indiana,1,0
+7/3/2020,Johnson,Kansas,1,0
+7/3/2020,Fayette,Kentucky,1,0
+7/3/2020,Montgomery,Maryland,3,0
+7/3/2020,Berkshire,Massachusetts,1,0
+7/3/2020,Middlesex,Massachusetts,5,0
+7/3/2020,Norfolk,Massachusetts,3,0
+7/3/2020,Suffolk,Massachusetts,4,0
+7/3/2020,Ramsey,Minnesota,1,0
+7/3/2020,St. Louis,Missouri,1,0
+7/3/2020,Douglas,Nebraska,14,0
+7/3/2020,Clark,Nevada,1,0
+7/3/2020,Washoe,Nevada,1,0
+7/3/2020,Grafton,New Hampshire,3,0
+7/3/2020,Rockingham,New Hampshire,1,0
+7/3/2020,Bergen,New Jersey,3,0
+7/3/2020,Camden,New Jersey,1,0
+7/3/2020,Nassau,New York,4,0
+7/3/2020,New York City,New York,12,0
+7/3/2020,Rockland,New York,2,0
+7/3/2020,Saratoga,New York,2,0
+7/3/2020,Westchester,New York,69,0
+7/3/2020,Chatham,North Carolina,1,0
+7/3/2020,Wake,North Carolina,1,0
+7/3/2020,Tulsa,Oklahoma,1,0
+7/3/2020,Jackson,Oregon,2,0
+7/3/2020,Klamath,Oregon,1,0
+7/3/2020,Washington,Oregon,3,0
+7/3/2020,Delaware,Pennsylvania,1,0
+7/3/2020,Montgomery,Pennsylvania,2,0
+7/3/2020,Wayne,Pennsylvania,1,0
+7/3/2020,Unknown,Rhode Island,3,0
+7/3/2020,Charleston,South Carolina,1,0
+7/3/2020,Kershaw,South Carolina,1,0
+7/3/2020,Williamson,Tennessee,1,0
+7/3/2020,Bexar,Texas,11,0
+7/3/2020,Fort Bend,Texas,3,0
+7/3/2020,Harris,Texas,5,0
+7/3/2020,Davis,Utah,1,0
+7/3/2020,Salt Lake,Utah,1,0
+7/3/2020,Washington,Utah,1,0
+7/3/2020,Bennington,Vermont,1,0
+7/3/2020,Fairfax,Virginia,1,0
+7/3/2020,Chelan,Washington,1,0
+7/3/2020,Clark,Washington,1,0
+7/3/2020,Jefferson,Washington,1,0
+7/3/2020,King,Washington,72,16
+7/3/2020,Kittitas,Washington,1,0
+7/3/2020,Pierce,Washington,3,0
+7/3/2020,Snohomish,Washington,26,0
+7/3/2020,Spokane,Washington,4,0
+7/3/2020,Walla Walla,Washington,1,0
+7/3/2020,Dane,Wisconsin,1,0
+8/3/2020,Maricopa,Arizona,2,0
+8/3/2020,Pinal,Arizona,3,0
+8/3/2020,Alameda,California,3,0
+8/3/2020,Contra Costa,California,9,0
+8/3/2020,Fresno,California,1,0
+8/3/2020,Humboldt,California,1,0
+8/3/2020,Los Angeles,California,14,0
+8/3/2020,Madera,California,1,0
+8/3/2020,Marin,California,1,0
+8/3/2020,Napa,California,1,0
+8/3/2020,Orange,California,3,0
+8/3/2020,Placer,California,7,1
+8/3/2020,Riverside,California,1,0
+8/3/2020,Sacramento,California,3,0
+8/3/2020,San Diego,California,1,0
+8/3/2020,San Francisco,California,11,0
+8/3/2020,San Mateo,California,1,0
+8/3/2020,Santa Clara,California,37,0
+8/3/2020,Santa Cruz,California,1,0
+8/3/2020,Solano,California,12,0
+8/3/2020,Sonoma,California,3,0
+8/3/2020,Yolo,California,1,0
+8/3/2020,Denver,Colorado,2,0
+8/3/2020,Douglas,Colorado,3,0
+8/3/2020,Eagle,Colorado,1,0
+8/3/2020,El Paso,Colorado,1,0
+8/3/2020,Jefferson,Colorado,1,0
+8/3/2020,Fairfield,Connecticut,1,0
+8/3/2020,District of Columbia,District of Columbia,1,0
+8/3/2020,Broward,Florida,3,0
+8/3/2020,Charlotte,Florida,1,0
+8/3/2020,Hillsborough,Florida,2,0
+8/3/2020,Lee,Florida,2,1
+8/3/2020,Manatee,Florida,2,0
+8/3/2020,Okaloosa,Florida,1,0
+8/3/2020,Santa Rosa,Florida,1,1
+8/3/2020,Volusia,Florida,1,0
+8/3/2020,Cherokee,Georgia,1,0
+8/3/2020,Cobb,Georgia,3,0
+8/3/2020,Fulton,Georgia,5,0
+8/3/2020,Gwinnett,Georgia,1,0
+8/3/2020,Polk,Georgia,1,0
+8/3/2020,Honolulu,Hawaii,2,0
+8/3/2020,Cook,Illinois,7,0
+8/3/2020,Hendricks,Indiana,1,0
+8/3/2020,Marion,Indiana,1,0
+8/3/2020,Johnson,Iowa,3,0
+8/3/2020,Johnson,Kansas,1,0
+8/3/2020,Fayette,Kentucky,2,0
+8/3/2020,Harrison,Kentucky,1,0
+8/3/2020,Jefferson,Kentucky,1,0
+8/3/2020,Harford,Maryland,1,0
+8/3/2020,Montgomery,Maryland,4,0
+8/3/2020,Berkshire,Massachusetts,1,0
+8/3/2020,Middlesex,Massachusetts,10,0
+8/3/2020,Norfolk,Massachusetts,7,0
+8/3/2020,Suffolk,Massachusetts,9,0
+8/3/2020,Worcester,Massachusetts,1,0
+8/3/2020,Carver,Minnesota,1,0
+8/3/2020,Ramsey,Minnesota,1,0
+8/3/2020,St. Louis,Missouri,1,0
+8/3/2020,Douglas,Nebraska,16,0
+8/3/2020,Clark,Nevada,2,0
+8/3/2020,Washoe,Nevada,2,0
+8/3/2020,Grafton,New Hampshire,3,0
+8/3/2020,Rockingham,New Hampshire,1,0
+8/3/2020,Bergen,New Jersey,4,0
+8/3/2020,Camden,New Jersey,1,0
+8/3/2020,Passaic,New Jersey,1,0
+8/3/2020,Nassau,New York,5,0
+8/3/2020,New York City,New York,14,0
+8/3/2020,Rockland,New York,2,0
+8/3/2020,Saratoga,New York,2,0
+8/3/2020,Suffolk,New York,1,0
+8/3/2020,Ulster,New York,1,0
+8/3/2020,Westchester,New York,81,0
+8/3/2020,Chatham,North Carolina,1,0
+8/3/2020,Wake,North Carolina,1,0
+8/3/2020,Tulsa,Oklahoma,1,0
+8/3/2020,Douglas,Oregon,1,0
+8/3/2020,Jackson,Oregon,2,0
+8/3/2020,Klamath,Oregon,1,0
+8/3/2020,Marion,Oregon,1,0
+8/3/2020,Washington,Oregon,8,0
+8/3/2020,Delaware,Pennsylvania,1,0
+8/3/2020,Montgomery,Pennsylvania,4,0
+8/3/2020,Wayne,Pennsylvania,1,0
+8/3/2020,Unknown,Rhode Island,3,0
+8/3/2020,Charleston,South Carolina,1,0
+8/3/2020,Kershaw,South Carolina,4,0
+8/3/2020,Spartanburg,South Carolina,1,0
+8/3/2020,Davidson,Tennessee,1,0
+8/3/2020,Shelby,Tennessee,1,0
+8/3/2020,Williamson,Tennessee,1,0
+8/3/2020,Bexar,Texas,11,0
+8/3/2020,Fort Bend,Texas,6,0
+8/3/2020,Harris,Texas,6,0
+8/3/2020,Davis,Utah,1,0
+8/3/2020,Salt Lake,Utah,1,0
+8/3/2020,Washington,Utah,1,0
+8/3/2020,Bennington,Vermont,1,0
+8/3/2020,Fairfax,Virginia,2,0
+8/3/2020,Chelan,Washington,1,1
+8/3/2020,Clark,Washington,1,0
+8/3/2020,Jefferson,Washington,1,0
+8/3/2020,King,Washington,91,18
+8/3/2020,Kitsap,Washington,1,0
+8/3/2020,Kittitas,Washington,1,0
+8/3/2020,Pierce,Washington,4,0
+8/3/2020,Snohomish,Washington,36,0
+8/3/2020,Spokane,Washington,4,0
+8/3/2020,Walla Walla,Washington,1,0
+8/3/2020,Dane,Wisconsin,1,0
+9/3/2020,Maricopa,Arizona,2,0
+9/3/2020,Pima,Arizona,1,0
+9/3/2020,Pinal,Arizona,3,0
+9/3/2020,Alameda,California,24,0
+9/3/2020,Contra Costa,California,9,0
+9/3/2020,Fresno,California,1,0
+9/3/2020,Humboldt,California,1,0
+9/3/2020,Los Angeles,California,19,0
+9/3/2020,Madera,California,1,0
+9/3/2020,Marin,California,2,0
+9/3/2020,Napa,California,1,0
+9/3/2020,Orange,California,5,0
+9/3/2020,Placer,California,7,1
+9/3/2020,Riverside,California,4,0
+9/3/2020,Sacramento,California,9,0
+9/3/2020,San Diego,California,2,0
+9/3/2020,San Francisco,California,16,0
+9/3/2020,San Mateo,California,9,0
+9/3/2020,Santa Clara,California,43,1
+9/3/2020,Santa Cruz,California,2,0
+9/3/2020,Shasta,California,1,0
+9/3/2020,Solano,California,12,0
+9/3/2020,Sonoma,California,3,0
+9/3/2020,Yolo,California,1,0
+9/3/2020,Arapahoe,Colorado,1,0
+9/3/2020,Denver,Colorado,3,0
+9/3/2020,Douglas,Colorado,3,0
+9/3/2020,Eagle,Colorado,2,0
+9/3/2020,El Paso,Colorado,1,0
+9/3/2020,Jefferson,Colorado,1,0
+9/3/2020,Larimer,Colorado,1,0
+9/3/2020,Fairfield,Connecticut,2,0
+9/3/2020,District of Columbia,District of Columbia,4,0
+9/3/2020,Broward,Florida,3,0
+9/3/2020,Charlotte,Florida,1,0
+9/3/2020,Hillsborough,Florida,2,0
+9/3/2020,Lee,Florida,2,1
+9/3/2020,Manatee,Florida,2,0
+9/3/2020,Okaloosa,Florida,1,0
+9/3/2020,Santa Rosa,Florida,1,1
+9/3/2020,Volusia,Florida,2,0
+9/3/2020,Cherokee,Georgia,1,0
+9/3/2020,Cobb,Georgia,4,0
+9/3/2020,DeKalb,Georgia,2,0
+9/3/2020,Fayette,Georgia,1,0
+9/3/2020,Floyd,Georgia,1,0
+9/3/2020,Fulton,Georgia,5,0
+9/3/2020,Gwinnett,Georgia,2,0
+9/3/2020,Polk,Georgia,1,0
+9/3/2020,Honolulu,Hawaii,2,0
+9/3/2020,Cook,Illinois,11,0
+9/3/2020,Hendricks,Indiana,2,0
+9/3/2020,Marion,Indiana,1,0
+9/3/2020,Noble,Indiana,1,0
+9/3/2020,Johnson,Iowa,7,0
+9/3/2020,Pottawattamie,Iowa,1,0
+9/3/2020,Johnson,Kansas,1,0
+9/3/2020,Fayette,Kentucky,3,0
+9/3/2020,Harrison,Kentucky,1,0
+9/3/2020,Jefferson,Kentucky,1,0
+9/3/2020,Jefferson,Louisiana,1,0
+9/3/2020,Harford,Maryland,1,0
+9/3/2020,Montgomery,Maryland,4,0
+9/3/2020,Prince George's,Maryland,1,0
+9/3/2020,Berkshire,Massachusetts,5,0
+9/3/2020,Middlesex,Massachusetts,15,0
+9/3/2020,Norfolk,Massachusetts,10,0
+9/3/2020,Suffolk,Massachusetts,10,0
+9/3/2020,Worcester,Massachusetts,1,0
+9/3/2020,Carver,Minnesota,1,0
+9/3/2020,Ramsey,Minnesota,1,0
+9/3/2020,St. Louis,Missouri,1,0
+9/3/2020,Douglas,Nebraska,16,0
+9/3/2020,Clark,Nevada,2,0
+9/3/2020,Washoe,Nevada,2,0
+9/3/2020,Grafton,New Hampshire,3,0
+9/3/2020,Rockingham,New Hampshire,1,0
+9/3/2020,Bergen,New Jersey,5,0
+9/3/2020,Camden,New Jersey,1,0
+9/3/2020,Hudson,New Jersey,1,0
+9/3/2020,Monmouth,New Jersey,2,0
+9/3/2020,Passaic,New Jersey,1,0
+9/3/2020,Union,New Jersey,1,0
+9/3/2020,Nassau,New York,17,0
+9/3/2020,New York City,New York,20,0
+9/3/2020,Rockland,New York,4,0
+9/3/2020,Saratoga,New York,2,0
+9/3/2020,Suffolk,New York,1,0
+9/3/2020,Ulster,New York,1,0
+9/3/2020,Westchester,New York,97,0
+9/3/2020,Chatham,North Carolina,1,0
+9/3/2020,Wake,North Carolina,6,0
+9/3/2020,Cuyahoga,Ohio,3,0
+9/3/2020,Tulsa,Oklahoma,1,0
+9/3/2020,Douglas,Oregon,1,0
+9/3/2020,Jackson,Oregon,2,0
+9/3/2020,Klamath,Oregon,1,0
+9/3/2020,Marion,Oregon,1,0
+9/3/2020,Washington,Oregon,8,0
+9/3/2020,Delaware,Pennsylvania,1,0
+9/3/2020,Monroe,Pennsylvania,1,0
+9/3/2020,Montgomery,Pennsylvania,7,0
+9/3/2020,Wayne,Pennsylvania,1,0
+9/3/2020,Unknown,Rhode Island,3,0
+9/3/2020,Charleston,South Carolina,1,0
+9/3/2020,Kershaw,South Carolina,5,0
+9/3/2020,Spartanburg,South Carolina,1,0
+9/3/2020,Davidson,Tennessee,1,0
+9/3/2020,Shelby,Tennessee,1,0
+9/3/2020,Williamson,Tennessee,2,0
+9/3/2020,Bexar,Texas,11,0
+9/3/2020,Collin,Texas,1,0
+9/3/2020,Fort Bend,Texas,6,0
+9/3/2020,Harris,Texas,6,0
+9/3/2020,Davis,Utah,1,0
+9/3/2020,Salt Lake,Utah,1,0
+9/3/2020,Washington,Utah,1,0
+9/3/2020,Bennington,Vermont,1,0
+9/3/2020,Fairfax,Virginia,4,0
+9/3/2020,Virginia Beach city,Virginia,1,0
+9/3/2020,Chelan,Washington,1,1
+9/3/2020,Clark,Washington,1,0
+9/3/2020,Jefferson,Washington,1,0
+9/3/2020,King,Washington,117,21
+9/3/2020,Kitsap,Washington,1,0
+9/3/2020,Kittitas,Washington,1,0
+9/3/2020,Pierce,Washington,7,0
+9/3/2020,Snohomish,Washington,45,0
+9/3/2020,Spokane,Washington,4,0
+9/3/2020,Walla Walla,Washington,1,0
+9/3/2020,Dane,Wisconsin,1,0
+9/3/2020,Pierce,Wisconsin,1,0
+10/3/2020,Maricopa,Arizona,2,0
+10/3/2020,Pima,Arizona,1,0
+10/3/2020,Pinal,Arizona,3,0
+10/3/2020,Alameda,California,25,0
+10/3/2020,Contra Costa,California,9,0
+10/3/2020,Fresno,California,1,0
+10/3/2020,Humboldt,California,1,0
+10/3/2020,Los Angeles,California,20,0
+10/3/2020,Madera,California,1,0
+10/3/2020,Marin,California,2,0
+10/3/2020,Napa,California,1,0
+10/3/2020,Orange,California,5,0
+10/3/2020,Placer,California,7,1
+10/3/2020,Riverside,California,4,0
+10/3/2020,Sacramento,California,9,1
+10/3/2020,San Diego,California,2,0
+10/3/2020,San Francisco,California,17,0
+10/3/2020,San Joaquin,California,1,0
+10/3/2020,San Mateo,California,9,0
+10/3/2020,Santa Clara,California,45,1
+10/3/2020,Santa Cruz,California,2,0
+10/3/2020,Shasta,California,1,0
+10/3/2020,Solano,California,12,0
+10/3/2020,Sonoma,California,3,0
+10/3/2020,Ventura,California,1,0
+10/3/2020,Yolo,California,1,0
+10/3/2020,Arapahoe,Colorado,2,0
+10/3/2020,Denver,Colorado,4,0
+10/3/2020,Douglas,Colorado,3,0
+10/3/2020,Eagle,Colorado,3,0
+10/3/2020,El Paso,Colorado,1,0
+10/3/2020,Gunnison,Colorado,1,0
+10/3/2020,Jefferson,Colorado,2,0
+10/3/2020,Larimer,Colorado,1,0
+10/3/2020,Fairfield,Connecticut,2,0
+10/3/2020,District of Columbia,District of Columbia,4,0
+10/3/2020,Alachua,Florida,1,0
+10/3/2020,Broward,Florida,4,0
+10/3/2020,Charlotte,Florida,1,0
+10/3/2020,Collier,Florida,3,0
+10/3/2020,Hillsborough,Florida,2,0
+10/3/2020,Lee,Florida,2,1
+10/3/2020,Manatee,Florida,2,0
+10/3/2020,Nassau,Florida,1,0
+10/3/2020,Okaloosa,Florida,1,0
+10/3/2020,Pasco,Florida,1,0
+10/3/2020,Pinellas,Florida,2,0
+10/3/2020,Santa Rosa,Florida,1,1
+10/3/2020,Volusia,Florida,2,0
+10/3/2020,Charlton,Georgia,1,0
+10/3/2020,Cherokee,Georgia,1,0
+10/3/2020,Cobb,Georgia,7,0
+10/3/2020,DeKalb,Georgia,2,0
+10/3/2020,Fayette,Georgia,1,0
+10/3/2020,Floyd,Georgia,1,0
+10/3/2020,Fulton,Georgia,6,0
+10/3/2020,Gwinnett,Georgia,2,0
+10/3/2020,Polk,Georgia,1,0
+10/3/2020,Honolulu,Hawaii,2,0
+10/3/2020,Cook,Illinois,17,0
+10/3/2020,Kane,Illinois,1,0
+10/3/2020,McHenry,Illinois,1,0
+10/3/2020,Adams,Indiana,1,0
+10/3/2020,Boone,Indiana,1,0
+10/3/2020,Hendricks,Indiana,2,0
+10/3/2020,Marion,Indiana,1,0
+10/3/2020,Noble,Indiana,1,0
+10/3/2020,Johnson,Iowa,12,0
+10/3/2020,Pottawattamie,Iowa,1,0
+10/3/2020,Johnson,Kansas,1,0
+10/3/2020,Fayette,Kentucky,3,0
+10/3/2020,Harrison,Kentucky,3,0
+10/3/2020,Jefferson,Kentucky,1,0
+10/3/2020,Jefferson,Louisiana,1,0
+10/3/2020,Orleans,Louisiana,5,0
+10/3/2020,Harford,Maryland,1,0
+10/3/2020,Montgomery,Maryland,5,0
+10/3/2020,Prince George's,Maryland,3,0
+10/3/2020,Berkshire,Massachusetts,7,0
+10/3/2020,Essex,Massachusetts,1,0
+10/3/2020,Middlesex,Massachusetts,41,0
+10/3/2020,Norfolk,Massachusetts,22,0
+10/3/2020,Suffolk,Massachusetts,20,0
+10/3/2020,Worcester,Massachusetts,1,0
+10/3/2020,Oakland,Michigan,1,0
+10/3/2020,Wayne,Michigan,1,0
+10/3/2020,Anoka,Minnesota,1,0
+10/3/2020,Carver,Minnesota,1,0
+10/3/2020,Ramsey,Minnesota,1,0
+10/3/2020,St. Louis,Missouri,1,0
+10/3/2020,Douglas,Nebraska,17,0
+10/3/2020,Clark,Nevada,2,0
+10/3/2020,Washoe,Nevada,2,0
+10/3/2020,Grafton,New Hampshire,3,0
+10/3/2020,Rockingham,New Hampshire,2,0
+10/3/2020,Bergen,New Jersey,7,1
+10/3/2020,Burlington,New Jersey,2,0
+10/3/2020,Camden,New Jersey,1,0
+10/3/2020,Hudson,New Jersey,1,0
+10/3/2020,Monmouth,New Jersey,2,0
+10/3/2020,Passaic,New Jersey,1,0
+10/3/2020,Union,New Jersey,1,0
+10/3/2020,Nassau,New York,19,0
+10/3/2020,New York City,New York,37,0
+10/3/2020,Rockland,New York,6,0
+10/3/2020,Saratoga,New York,2,0
+10/3/2020,Suffolk,New York,1,0
+10/3/2020,Ulster,New York,1,0
+10/3/2020,Westchester,New York,107,0
+10/3/2020,Chatham,North Carolina,1,0
+10/3/2020,Wake,North Carolina,6,0
+10/3/2020,Cuyahoga,Ohio,3,0
+10/3/2020,Tulsa,Oklahoma,2,0
+10/3/2020,Douglas,Oregon,1,0
+10/3/2020,Jackson,Oregon,2,0
+10/3/2020,Klamath,Oregon,1,0
+10/3/2020,Marion,Oregon,1,0
+10/3/2020,Multnomah,Oregon,1,0
+10/3/2020,Washington,Oregon,8,0
+10/3/2020,Delaware,Pennsylvania,1,0
+10/3/2020,Monroe,Pennsylvania,1,0
+10/3/2020,Montgomery,Pennsylvania,8,0
+10/3/2020,Philadelphia,Pennsylvania,1,0
+10/3/2020,Wayne,Pennsylvania,1,0
+10/3/2020,Unknown,Rhode Island,5,0
+10/3/2020,Charleston,South Carolina,1,0
+10/3/2020,Kershaw,South Carolina,7,0
+10/3/2020,Spartanburg,South Carolina,1,0
+10/3/2020,Beadle,South Dakota,1,0
+10/3/2020,Charles Mix,South Dakota,1,0
+10/3/2020,Davison,South Dakota,2,1
+10/3/2020,Minnehaha,South Dakota,1,0
+10/3/2020,Davidson,Tennessee,1,0
+10/3/2020,Shelby,Tennessee,1,0
+10/3/2020,Sullivan,Tennessee,1,0
+10/3/2020,Williamson,Tennessee,4,0
+10/3/2020,Bexar,Texas,11,0
+10/3/2020,Collin,Texas,3,0
+10/3/2020,Dallas,Texas,2,0
+10/3/2020,Fort Bend,Texas,6,0
+10/3/2020,Harris,Texas,7,0
+10/3/2020,Montgomery,Texas,1,0
+10/3/2020,Tarrant,Texas,1,0
+10/3/2020,Davis,Utah,1,0
+10/3/2020,Salt Lake,Utah,1,0
+10/3/2020,Washington,Utah,1,0
+10/3/2020,Weber,Utah,1,0
+10/3/2020,Bennington,Vermont,1,0
+10/3/2020,Fairfax,Virginia,4,0
+10/3/2020,Loudoun,Virginia,2,0
+10/3/2020,Virginia Beach city,Virginia,2,0
+10/3/2020,Chelan,Washington,1,1
+10/3/2020,Clark,Washington,1,0
+10/3/2020,Jefferson,Washington,1,0
+10/3/2020,King,Washington,191,23
+10/3/2020,Kitsap,Washington,2,0
+10/3/2020,Kittitas,Washington,1,0
+10/3/2020,Pierce,Washington,14,0
+10/3/2020,Skagit,Washington,1,0
+10/3/2020,Snohomish,Washington,61,0
+10/3/2020,Spokane,Washington,4,0
+10/3/2020,Walla Walla,Washington,1,0
+10/3/2020,Whatcom,Washington,1,0
+10/3/2020,Dane,Wisconsin,2,0
+10/3/2020,Pierce,Wisconsin,1,0
+11/3/2020,Maricopa,Arizona,3,0
+11/3/2020,Pima,Arizona,1,0
+11/3/2020,Pinal,Arizona,5,0
+11/3/2020,Jefferson,Arkansas,1,0
+11/3/2020,Alameda,California,25,0
+11/3/2020,Contra Costa,California,9,0
+11/3/2020,Fresno,California,1,0
+11/3/2020,Humboldt,California,1,0
+11/3/2020,Los Angeles,California,28,1
+11/3/2020,Madera,California,1,0
+11/3/2020,Marin,California,4,0
+11/3/2020,Napa,California,1,0
+11/3/2020,Orange,California,6,0
+11/3/2020,Placer,California,7,1
+11/3/2020,Riverside,California,4,0
+11/3/2020,Sacramento,California,9,1
+11/3/2020,San Diego,California,2,0
+11/3/2020,San Francisco,California,17,0
+11/3/2020,San Joaquin,California,1,0
+11/3/2020,San Mateo,California,15,0
+11/3/2020,Santa Clara,California,48,1
+11/3/2020,Santa Cruz,California,2,0
+11/3/2020,Shasta,California,1,0
+11/3/2020,Solano,California,12,0
+11/3/2020,Sonoma,California,3,0
+11/3/2020,Stanislaus,California,2,0
+11/3/2020,Ventura,California,2,0
+11/3/2020,Yolo,California,1,0
+11/3/2020,Arapahoe,Colorado,3,0
+11/3/2020,Denver,Colorado,6,0
+11/3/2020,Douglas,Colorado,3,0
+11/3/2020,Eagle,Colorado,4,0
+11/3/2020,El Paso,Colorado,1,0
+11/3/2020,Gunnison,Colorado,3,0
+11/3/2020,Jefferson,Colorado,4,0
+11/3/2020,Larimer,Colorado,1,0
+11/3/2020,Pitkin,Colorado,9,0
+11/3/2020,Fairfield,Connecticut,3,0
+11/3/2020,New Castle,Delaware,1,0
+11/3/2020,District of Columbia,District of Columbia,10,0
+11/3/2020,Alachua,Florida,1,0
+11/3/2020,Broward,Florida,5,0
+11/3/2020,Charlotte,Florida,1,0
+11/3/2020,Collier,Florida,3,0
+11/3/2020,Hillsborough,Florida,2,0
+11/3/2020,Lee,Florida,2,1
+11/3/2020,Manatee,Florida,2,0
+11/3/2020,Miami-Dade,Florida,1,0
+11/3/2020,Nassau,Florida,1,0
+11/3/2020,Okaloosa,Florida,1,0
+11/3/2020,Pasco,Florida,1,0
+11/3/2020,Pinellas,Florida,2,0
+11/3/2020,Santa Rosa,Florida,1,1
+11/3/2020,St. Johns,Florida,1,0
+11/3/2020,Volusia,Florida,2,0
+11/3/2020,Bartow,Georgia,3,0
+11/3/2020,Charlton,Georgia,1,0
+11/3/2020,Cherokee,Georgia,1,0
+11/3/2020,Cobb,Georgia,8,0
+11/3/2020,DeKalb,Georgia,4,0
+11/3/2020,Fayette,Georgia,1,0
+11/3/2020,Floyd,Georgia,2,0
+11/3/2020,Fulton,Georgia,6,0
+11/3/2020,Gwinnett,Georgia,2,0
+11/3/2020,Lee,Georgia,1,0
+11/3/2020,Lowndes,Georgia,1,0
+11/3/2020,Polk,Georgia,1,0
+11/3/2020,Honolulu,Hawaii,2,0
+11/3/2020,Cook,Illinois,22,0
+11/3/2020,Kane,Illinois,1,0
+11/3/2020,Lake,Illinois,1,0
+11/3/2020,McHenry,Illinois,1,0
+11/3/2020,Adams,Indiana,1,0
+11/3/2020,Boone,Indiana,1,0
+11/3/2020,Hendricks,Indiana,2,0
+11/3/2020,Howard,Indiana,1,0
+11/3/2020,Johnson,Indiana,3,0
+11/3/2020,Marion,Indiana,1,0
+11/3/2020,Noble,Indiana,1,0
+11/3/2020,St. Joseph,Indiana,1,0
+11/3/2020,Johnson,Iowa,13,0
+11/3/2020,Pottawattamie,Iowa,1,0
+11/3/2020,Johnson,Kansas,1,0
+11/3/2020,Fayette,Kentucky,3,0
+11/3/2020,Harrison,Kentucky,3,0
+11/3/2020,Jefferson,Kentucky,1,0
+11/3/2020,Caddo,Louisiana,1,0
+11/3/2020,Jefferson,Louisiana,1,0
+11/3/2020,Orleans,Louisiana,11,0
+11/3/2020,Baltimore,Maryland,1,0
+11/3/2020,Harford,Maryland,1,0
+11/3/2020,Montgomery,Maryland,6,0
+11/3/2020,Prince George's,Maryland,5,0
+11/3/2020,Berkshire,Massachusetts,9,0
+11/3/2020,Essex,Massachusetts,1,0
+11/3/2020,Middlesex,Massachusetts,41,0
+11/3/2020,Norfolk,Massachusetts,22,0
+11/3/2020,Suffolk,Massachusetts,20,0
+11/3/2020,Worcester,Massachusetts,2,0
+11/3/2020,Oakland,Michigan,1,0
+11/3/2020,Wayne,Michigan,1,0
+11/3/2020,Anoka,Minnesota,1,0
+11/3/2020,Carver,Minnesota,1,0
+11/3/2020,Olmsted,Minnesota,1,0
+11/3/2020,Ramsey,Minnesota,2,0
+11/3/2020,Forrest,Mississippi,1,0
+11/3/2020,St. Louis,Missouri,1,0
+11/3/2020,Douglas,Nebraska,23,0
+11/3/2020,Clark,Nevada,5,0
+11/3/2020,Washoe,Nevada,2,0
+11/3/2020,Grafton,New Hampshire,3,0
+11/3/2020,Rockingham,New Hampshire,2,0
+11/3/2020,Bergen,New Jersey,11,1
+11/3/2020,Burlington,New Jersey,2,0
+11/3/2020,Camden,New Jersey,1,0
+11/3/2020,Hudson,New Jersey,1,0
+11/3/2020,Middlesex,New Jersey,2,0
+11/3/2020,Monmouth,New Jersey,4,0
+11/3/2020,Passaic,New Jersey,1,0
+11/3/2020,Union,New Jersey,1,0
+11/3/2020,Bernalillo,New Mexico,1,0
+11/3/2020,Santa Fe,New Mexico,1,0
+11/3/2020,Socorro,New Mexico,2,0
+11/3/2020,Monroe,New York,1,0
+11/3/2020,Nassau,New York,28,0
+11/3/2020,New York City,New York,52,0
+11/3/2020,Rockland,New York,6,0
+11/3/2020,Saratoga,New York,2,0
+11/3/2020,Suffolk,New York,6,0
+11/3/2020,Ulster,New York,2,0
+11/3/2020,Westchester,New York,120,0
+11/3/2020,Chatham,North Carolina,1,0
+11/3/2020,Wake,North Carolina,7,0
+11/3/2020,Ward,North Dakota,1,0
+11/3/2020,Cuyahoga,Ohio,3,0
+11/3/2020,Stark,Ohio,1,0
+11/3/2020,Tulsa,Oklahoma,2,0
+11/3/2020,Deschutes,Oregon,1,0
+11/3/2020,Douglas,Oregon,1,0
+11/3/2020,Jackson,Oregon,2,0
+11/3/2020,Klamath,Oregon,1,0
+11/3/2020,Linn,Oregon,2,0
+11/3/2020,Marion,Oregon,2,0
+11/3/2020,Multnomah,Oregon,1,0
+11/3/2020,Polk,Oregon,1,0
+11/3/2020,Umatilla,Oregon,1,0
+11/3/2020,Washington,Oregon,8,0
+11/3/2020,Bucks,Pennsylvania,2,0
+11/3/2020,Delaware,Pennsylvania,1,0
+11/3/2020,Monroe,Pennsylvania,2,0
+11/3/2020,Montgomery,Pennsylvania,9,0
+11/3/2020,Philadelphia,Pennsylvania,1,0
+11/3/2020,Wayne,Pennsylvania,1,0
+11/3/2020,Unknown,Rhode Island,5,0
+11/3/2020,Charleston,South Carolina,1,0
+11/3/2020,Kershaw,South Carolina,7,0
+11/3/2020,Lancaster,South Carolina,1,0
+11/3/2020,Spartanburg,South Carolina,1,0
+11/3/2020,Beadle,South Dakota,1,0
+11/3/2020,Bon Homme,South Dakota,1,0
+11/3/2020,Charles Mix,South Dakota,1,0
+11/3/2020,Davison,South Dakota,2,1
+11/3/2020,Minnehaha,South Dakota,3,0
+11/3/2020,Davidson,Tennessee,2,0
+11/3/2020,Shelby,Tennessee,1,0
+11/3/2020,Sullivan,Tennessee,1,0
+11/3/2020,Williamson,Tennessee,4,0
+11/3/2020,Bexar,Texas,11,0
+11/3/2020,Collin,Texas,3,0
+11/3/2020,Dallas,Texas,3,0
+11/3/2020,Fort Bend,Texas,6,0
+11/3/2020,Gregg,Texas,1,0
+11/3/2020,Harris,Texas,7,0
+11/3/2020,Montgomery,Texas,1,0
+11/3/2020,Tarrant,Texas,1,0
+11/3/2020,Davis,Utah,1,0
+11/3/2020,Salt Lake,Utah,2,0
+11/3/2020,Washington,Utah,1,0
+11/3/2020,Weber,Utah,1,0
+11/3/2020,Bennington,Vermont,1,0
+11/3/2020,Chittenden,Vermont,1,0
+11/3/2020,Arlington,Virginia,2,0
+11/3/2020,Fairfax,Virginia,4,0
+11/3/2020,Loudoun,Virginia,2,0
+11/3/2020,Virginia Beach city,Virginia,2,0
+11/3/2020,Chelan,Washington,1,1
+11/3/2020,Clark,Washington,1,0
+11/3/2020,Island,Washington,1,0
+11/3/2020,Jefferson,Washington,1,0
+11/3/2020,King,Washington,235,27
+11/3/2020,Kitsap,Washington,2,0
+11/3/2020,Kittitas,Washington,3,0
+11/3/2020,Pierce,Washington,17,0
+11/3/2020,Skagit,Washington,1,0
+11/3/2020,Snohomish,Washington,69,1
+11/3/2020,Spokane,Washington,4,0
+11/3/2020,Thurston,Washington,1,0
+11/3/2020,Walla Walla,Washington,1,0
+11/3/2020,Whatcom,Washington,1,0
+11/3/2020,Dane,Wisconsin,2,0
+11/3/2020,Fond du Lac,Wisconsin,2,0
+11/3/2020,Pierce,Wisconsin,1,0
+11/3/2020,Waukesha,Wisconsin,1,0
+11/3/2020,Sheridan,Wyoming,1,0
+12/3/2020,Anchorage,Alaska,1,0
+12/3/2020,Maricopa,Arizona,3,0
+12/3/2020,Pima,Arizona,1,0
+12/3/2020,Pinal,Arizona,5,0
+12/3/2020,Jefferson,Arkansas,1,0
+12/3/2020,Pulaski,Arkansas,5,0
+12/3/2020,Alameda,California,29,0
+12/3/2020,Contra Costa,California,9,0
+12/3/2020,Fresno,California,1,0
+12/3/2020,Humboldt,California,1,0
+12/3/2020,Los Angeles,California,32,1
+12/3/2020,Madera,California,1,0
+12/3/2020,Marin,California,4,0
+12/3/2020,Napa,California,1,0
+12/3/2020,Orange,California,6,0
+12/3/2020,Placer,California,7,1
+12/3/2020,Riverside,California,6,0
+12/3/2020,Sacramento,California,16,1
+12/3/2020,San Diego,California,5,0
+12/3/2020,San Francisco,California,21,0
+12/3/2020,San Joaquin,California,3,0
+12/3/2020,San Mateo,California,20,0
+12/3/2020,Santa Clara,California,66,1
+12/3/2020,Santa Cruz,California,2,0
+12/3/2020,Shasta,California,1,0
+12/3/2020,Solano,California,12,0
+12/3/2020,Sonoma,California,3,0
+12/3/2020,Stanislaus,California,2,0
+12/3/2020,Tulare,California,1,0
+12/3/2020,Ventura,California,2,0
+12/3/2020,Yolo,California,1,0
+12/3/2020,Adams,Colorado,2,0
+12/3/2020,Arapahoe,Colorado,3,0
+12/3/2020,Denver,Colorado,9,0
+12/3/2020,Douglas,Colorado,3,0
+12/3/2020,Eagle,Colorado,11,0
+12/3/2020,El Paso,Colorado,1,1
+12/3/2020,Gunnison,Colorado,4,0
+12/3/2020,Jefferson,Colorado,5,0
+12/3/2020,Larimer,Colorado,1,0
+12/3/2020,Pitkin,Colorado,10,0
+12/3/2020,Fairfield,Connecticut,5,0
+12/3/2020,Litchfield,Connecticut,1,0
+12/3/2020,New Castle,Delaware,4,0
+12/3/2020,District of Columbia,District of Columbia,10,0
+12/3/2020,Alachua,Florida,2,0
+12/3/2020,Broward,Florida,12,0
+12/3/2020,Charlotte,Florida,1,0
+12/3/2020,Clay,Florida,1,0
+12/3/2020,Collier,Florida,3,0
+12/3/2020,Duval,Florida,1,0
+12/3/2020,Hillsborough,Florida,3,0
+12/3/2020,Lee,Florida,4,1
+12/3/2020,Manatee,Florida,2,0
+12/3/2020,Miami-Dade,Florida,2,0
+12/3/2020,Nassau,Florida,1,0
+12/3/2020,Okaloosa,Florida,1,0
+12/3/2020,Palm Beach,Florida,2,0
+12/3/2020,Pasco,Florida,1,0
+12/3/2020,Pinellas,Florida,2,0
+12/3/2020,Santa Rosa,Florida,1,1
+12/3/2020,Sarasota,Florida,2,0
+12/3/2020,Seminole,Florida,1,0
+12/3/2020,St. Johns,Florida,1,0
+12/3/2020,Volusia,Florida,3,0
+12/3/2020,Bartow,Georgia,3,0
+12/3/2020,Charlton,Georgia,1,0
+12/3/2020,Cherokee,Georgia,1,0
+12/3/2020,Cobb,Georgia,8,1
+12/3/2020,DeKalb,Georgia,4,0
+12/3/2020,Fayette,Georgia,1,0
+12/3/2020,Floyd,Georgia,2,0
+12/3/2020,Fulton,Georgia,6,0
+12/3/2020,Gwinnett,Georgia,2,0
+12/3/2020,Lee,Georgia,1,0
+12/3/2020,Lowndes,Georgia,1,0
+12/3/2020,Polk,Georgia,1,0
+12/3/2020,Honolulu,Hawaii,2,0
+12/3/2020,Cook,Illinois,27,0
+12/3/2020,Kane,Illinois,2,0
+12/3/2020,Lake,Illinois,1,0
+12/3/2020,McHenry,Illinois,2,0
+12/3/2020,Adams,Indiana,1,0
+12/3/2020,Boone,Indiana,1,0
+12/3/2020,Hendricks,Indiana,2,0
+12/3/2020,Howard,Indiana,1,0
+12/3/2020,Johnson,Indiana,3,0
+12/3/2020,Marion,Indiana,2,0
+12/3/2020,Noble,Indiana,1,0
+12/3/2020,St. Joseph,Indiana,1,0
+12/3/2020,Carroll,Iowa,1,0
+12/3/2020,Johnson,Iowa,14,0
+12/3/2020,Pottawattamie,Iowa,1,0
+12/3/2020,Johnson,Kansas,4,0
+12/3/2020,Wyandotte,Kansas,1,1
+12/3/2020,Fayette,Kentucky,4,0
+12/3/2020,Harrison,Kentucky,4,0
+12/3/2020,Jefferson,Kentucky,2,0
+12/3/2020,Montgomery,Kentucky,1,0
+12/3/2020,Caddo,Louisiana,1,0
+12/3/2020,Jefferson,Louisiana,1,0
+12/3/2020,Orleans,Louisiana,12,0
+12/3/2020,Androscoggin,Maine,1,0
+12/3/2020,Baltimore,Maryland,1,0
+12/3/2020,Harford,Maryland,1,0
+12/3/2020,Montgomery,Maryland,6,0
+12/3/2020,Prince George's,Maryland,5,0
+12/3/2020,Berkshire,Massachusetts,9,0
+12/3/2020,Essex,Massachusetts,2,0
+12/3/2020,Middlesex,Massachusetts,49,0
+12/3/2020,Norfolk,Massachusetts,24,0
+12/3/2020,Suffolk,Massachusetts,22,0
+12/3/2020,Worcester,Massachusetts,2,0
+12/3/2020,Ingham,Michigan,1,0
+12/3/2020,Kent,Michigan,3,0
+12/3/2020,Montcalm,Michigan,1,0
+12/3/2020,Oakland,Michigan,3,0
+12/3/2020,St. Clair,Michigan,1,0
+12/3/2020,Washtenaw,Michigan,2,0
+12/3/2020,Wayne,Michigan,1,0
+12/3/2020,Anoka,Minnesota,1,0
+12/3/2020,Carver,Minnesota,1,0
+12/3/2020,Dakota,Minnesota,1,0
+12/3/2020,Hennepin,Minnesota,1,0
+12/3/2020,Olmsted,Minnesota,1,0
+12/3/2020,Ramsey,Minnesota,2,0
+12/3/2020,Stearns,Minnesota,2,0
+12/3/2020,Forrest,Mississippi,1,0
+12/3/2020,Greene,Missouri,1,0
+12/3/2020,St. Louis,Missouri,1,0
+12/3/2020,Cass,Nebraska,1,0
+12/3/2020,Douglas,Nebraska,23,0
+12/3/2020,Carson City,Nevada,1,0
+12/3/2020,Clark,Nevada,8,0
+12/3/2020,Washoe,Nevada,2,0
+12/3/2020,Grafton,New Hampshire,3,0
+12/3/2020,Rockingham,New Hampshire,3,0
+12/3/2020,Bergen,New Jersey,13,1
+12/3/2020,Burlington,New Jersey,2,0
+12/3/2020,Camden,New Jersey,1,0
+12/3/2020,Essex,New Jersey,1,0
+12/3/2020,Hudson,New Jersey,1,0
+12/3/2020,Middlesex,New Jersey,2,0
+12/3/2020,Monmouth,New Jersey,5,0
+12/3/2020,Morris,New Jersey,1,0
+12/3/2020,Passaic,New Jersey,1,0
+12/3/2020,Union,New Jersey,1,0
+12/3/2020,Unknown,New Jersey,1,0
+12/3/2020,Bernalillo,New Mexico,2,0
+12/3/2020,Santa Fe,New Mexico,2,0
+12/3/2020,Socorro,New Mexico,2,0
+12/3/2020,Albany,New York,2,0
+12/3/2020,Delaware,New York,1,0
+12/3/2020,Dutchess,New York,1,0
+12/3/2020,Herkimer,New York,1,0
+12/3/2020,Monroe,New York,1,0
+12/3/2020,Nassau,New York,41,0
+12/3/2020,New York City,New York,96,0
+12/3/2020,Orange,New York,1,0
+12/3/2020,Rockland,New York,7,0
+12/3/2020,Saratoga,New York,3,0
+12/3/2020,Suffolk,New York,21,0
+12/3/2020,Ulster,New York,4,0
+12/3/2020,Westchester,New York,147,0
+12/3/2020,Cabarrus,North Carolina,1,0
+12/3/2020,Chatham,North Carolina,1,0
+12/3/2020,Forsyth,North Carolina,2,0
+12/3/2020,Johnston,North Carolina,1,0
+12/3/2020,Mecklenburg,North Carolina,2,0
+12/3/2020,Onslow,North Carolina,1,0
+12/3/2020,Wake,North Carolina,8,0
+12/3/2020,Ward,North Dakota,1,0
+12/3/2020,Cuyahoga,Ohio,3,0
+12/3/2020,Stark,Ohio,1,0
+12/3/2020,Trumbull,Ohio,1,0
+12/3/2020,Tulsa,Oklahoma,2,0
+12/3/2020,Clackamas,Oregon,1,0
+12/3/2020,Deschutes,Oregon,1,0
+12/3/2020,Douglas,Oregon,1,0
+12/3/2020,Jackson,Oregon,2,0
+12/3/2020,Klamath,Oregon,1,0
+12/3/2020,Linn,Oregon,8,0
+12/3/2020,Marion,Oregon,2,0
+12/3/2020,Multnomah,Oregon,1,0
+12/3/2020,Polk,Oregon,1,0
+12/3/2020,Umatilla,Oregon,2,0
+12/3/2020,Washington,Oregon,10,0
+12/3/2020,Bucks,Pennsylvania,2,0
+12/3/2020,Delaware,Pennsylvania,1,0
+12/3/2020,Monroe,Pennsylvania,2,0
+12/3/2020,Montgomery,Pennsylvania,13,0
+12/3/2020,Northampton,Pennsylvania,1,0
+12/3/2020,Philadelphia,Pennsylvania,1,0
+12/3/2020,Pike,Pennsylvania,1,0
+12/3/2020,Wayne,Pennsylvania,1,0
+12/3/2020,Unknown,Rhode Island,5,0
+12/3/2020,Charleston,South Carolina,1,0
+12/3/2020,Kershaw,South Carolina,8,0
+12/3/2020,Lancaster,South Carolina,2,0
+12/3/2020,Spartanburg,South Carolina,1,0
+12/3/2020,Beadle,South Dakota,1,0
+12/3/2020,Bon Homme,South Dakota,1,0
+12/3/2020,Charles Mix,South Dakota,1,0
+12/3/2020,Davison,South Dakota,2,1
+12/3/2020,Minnehaha,South Dakota,3,0
+12/3/2020,Davidson,Tennessee,6,0
+12/3/2020,Knox,Tennessee,1,0
+12/3/2020,Shelby,Tennessee,2,0
+12/3/2020,Sullivan,Tennessee,1,0
+12/3/2020,Williamson,Tennessee,8,0
+12/3/2020,Bexar,Texas,11,0
+12/3/2020,Collin,Texas,4,0
+12/3/2020,Dallas,Texas,8,0
+12/3/2020,Fort Bend,Texas,6,0
+12/3/2020,Gregg,Texas,1,0
+12/3/2020,Harris,Texas,9,0
+12/3/2020,Montgomery,Texas,1,0
+12/3/2020,Tarrant,Texas,1,0
+12/3/2020,Davis,Utah,1,0
+12/3/2020,Salt Lake,Utah,4,0
+12/3/2020,Washington,Utah,1,0
+12/3/2020,Weber,Utah,1,0
+12/3/2020,Bennington,Vermont,1,0
+12/3/2020,Chittenden,Vermont,1,0
+12/3/2020,Alexandria city,Virginia,1,0
+12/3/2020,Arlington,Virginia,2,0
+12/3/2020,Fairfax,Virginia,4,0
+12/3/2020,Hanover,Virginia,1,0
+12/3/2020,James City,Virginia,3,0
+12/3/2020,Loudoun,Virginia,2,0
+12/3/2020,Prince Edward,Virginia,1,0
+12/3/2020,Prince William,Virginia,1,0
+12/3/2020,Virginia Beach city,Virginia,2,0
+12/3/2020,Chelan,Washington,1,1
+12/3/2020,Clark,Washington,1,0
+12/3/2020,Columbia,Washington,1,0
+12/3/2020,Grays Harbor,Washington,1,0
+12/3/2020,Island,Washington,3,0
+12/3/2020,Jefferson,Washington,1,0
+12/3/2020,King,Washington,271,28
+12/3/2020,Kitsap,Washington,2,0
+12/3/2020,Kittitas,Washington,3,0
+12/3/2020,Pierce,Washington,17,0
+12/3/2020,Skagit,Washington,2,0
+12/3/2020,Snohomish,Washington,107,3
+12/3/2020,Spokane,Washington,4,0
+12/3/2020,Thurston,Washington,1,0
+12/3/2020,Walla Walla,Washington,1,0
+12/3/2020,Whatcom,Washington,1,0
+12/3/2020,Yakima,Washington,2,0
+12/3/2020,Dane,Wisconsin,4,0
+12/3/2020,Fond du Lac,Wisconsin,2,0
+12/3/2020,Pierce,Wisconsin,1,0
+12/3/2020,Waukesha,Wisconsin,1,0
+12/3/2020,Sheridan,Wyoming,1,0
+13/03/2020,Elmore,Alabama,1,0
+13/03/2020,Jefferson,Alabama,2,0
+13/03/2020,Limestone,Alabama,1,0
+13/03/2020,Montgomery,Alabama,1,0
+13/03/2020,Tuscaloosa,Alabama,1,0
+13/03/2020,Anchorage,Alaska,1,0
+13/03/2020,Maricopa,Arizona,3,0
+13/03/2020,Pima,Arizona,1,0
+13/03/2020,Pinal,Arizona,5,0
+13/03/2020,Jefferson,Arkansas,1,0
+13/03/2020,Pulaski,Arkansas,6,0
+13/03/2020,Alameda,California,29,0
+13/03/2020,Contra Costa,California,25,0
+13/03/2020,Fresno,California,1,0
+13/03/2020,Humboldt,California,1,0
+13/03/2020,Los Angeles,California,40,1
+13/03/2020,Madera,California,1,0
+13/03/2020,Marin,California,4,0
+13/03/2020,Napa,California,1,0
+13/03/2020,Orange,California,13,0
+13/03/2020,Placer,California,7,1
+13/03/2020,Riverside,California,10,0
+13/03/2020,Sacramento,California,16,1
+13/03/2020,San Benito,California,1,0
+13/03/2020,San Diego,California,9,0
+13/03/2020,San Francisco,California,26,0
+13/03/2020,San Joaquin,California,8,0
+13/03/2020,San Mateo,California,20,0
+13/03/2020,Santa Clara,California,79,2
+13/03/2020,Santa Cruz,California,2,0
+13/03/2020,Shasta,California,1,0
+13/03/2020,Solano,California,12,0
+13/03/2020,Sonoma,California,3,0
+13/03/2020,Stanislaus,California,2,0
+13/03/2020,Tulare,California,2,0
+13/03/2020,Ventura,California,5,0
+13/03/2020,Yolo,California,2,0
+13/03/2020,Adams,Colorado,3,0
+13/03/2020,Arapahoe,Colorado,7,0
+13/03/2020,Clear Creek,Colorado,1,0
+13/03/2020,Denver,Colorado,17,0
+13/03/2020,Douglas,Colorado,4,0
+13/03/2020,Eagle,Colorado,16,0
+13/03/2020,El Paso,Colorado,2,2
+13/03/2020,Gunnison,Colorado,5,0
+13/03/2020,Jefferson,Colorado,7,0
+13/03/2020,Larimer,Colorado,1,0
+13/03/2020,Pitkin,Colorado,10,0
+13/03/2020,Pueblo,Colorado,1,0
+13/03/2020,Routt,Colorado,1,0
+13/03/2020,Summit,Colorado,2,0
+13/03/2020,Weld,Colorado,1,0
+13/03/2020,Fairfield,Connecticut,8,0
+13/03/2020,Litchfield,Connecticut,3,0
+13/03/2020,New Castle,Delaware,4,0
+13/03/2020,District of Columbia,District of Columbia,10,0
+13/03/2020,Alachua,Florida,3,0
+13/03/2020,Broward,Florida,21,0
+13/03/2020,Charlotte,Florida,1,0
+13/03/2020,Clay,Florida,1,0
+13/03/2020,Collier,Florida,3,0
+13/03/2020,Duval,Florida,1,0
+13/03/2020,Hillsborough,Florida,3,0
+13/03/2020,Lee,Florida,4,1
+13/03/2020,Manatee,Florida,4,0
+13/03/2020,Miami-Dade,Florida,8,0
+13/03/2020,Nassau,Florida,1,0
+13/03/2020,Okaloosa,Florida,1,0
+13/03/2020,Orange,Florida,1,0
+13/03/2020,Osceola,Florida,1,0
+13/03/2020,Palm Beach,Florida,5,0
+13/03/2020,Pasco,Florida,1,0
+13/03/2020,Pinellas,Florida,2,0
+13/03/2020,Santa Rosa,Florida,1,1
+13/03/2020,Sarasota,Florida,2,0
+13/03/2020,Seminole,Florida,1,0
+13/03/2020,St. Johns,Florida,1,0
+13/03/2020,Volusia,Florida,4,0
+13/03/2020,Bartow,Georgia,7,0
+13/03/2020,Charlton,Georgia,1,0
+13/03/2020,Cherokee,Georgia,4,0
+13/03/2020,Cobb,Georgia,8,1
+13/03/2020,DeKalb,Georgia,4,0
+13/03/2020,Fayette,Georgia,1,0
+13/03/2020,Floyd,Georgia,2,0
+13/03/2020,Fulton,Georgia,6,0
+13/03/2020,Gordon,Georgia,2,0
+13/03/2020,Gwinnett,Georgia,2,0
+13/03/2020,Henry,Georgia,1,0
+13/03/2020,Lee,Georgia,1,0
+13/03/2020,Lowndes,Georgia,1,0
+13/03/2020,Polk,Georgia,1,0
+13/03/2020,Honolulu,Hawaii,2,0
+13/03/2020,Ada,Idaho,1,0
+13/03/2020,Cook,Illinois,40,0
+13/03/2020,Kane,Illinois,2,0
+13/03/2020,Lake,Illinois,2,0
+13/03/2020,McHenry,Illinois,2,0
+13/03/2020,Adams,Indiana,1,0
+13/03/2020,Boone,Indiana,1,0
+13/03/2020,Hendricks,Indiana,2,0
+13/03/2020,Howard,Indiana,1,0
+13/03/2020,Johnson,Indiana,3,0
+13/03/2020,Marion,Indiana,2,0
+13/03/2020,Noble,Indiana,1,0
+13/03/2020,St. Joseph,Indiana,1,0
+13/03/2020,Carroll,Iowa,1,0
+13/03/2020,Harrison,Iowa,1,0
+13/03/2020,Johnson,Iowa,14,0
+13/03/2020,Pottawattamie,Iowa,1,0
+13/03/2020,Butler,Kansas,1,0
+13/03/2020,Johnson,Kansas,4,0
+13/03/2020,Wyandotte,Kansas,1,1
+13/03/2020,Fayette,Kentucky,4,0
+13/03/2020,Harrison,Kentucky,4,0
+13/03/2020,Jefferson,Kentucky,2,0
+13/03/2020,Montgomery,Kentucky,1,0
+13/03/2020,Caddo,Louisiana,1,0
+13/03/2020,Jefferson,Louisiana,3,0
+13/03/2020,Orleans,Louisiana,28,0
+13/03/2020,St. Charles,Louisiana,1,0
+13/03/2020,St. Tammany,Louisiana,2,0
+13/03/2020,Terrebonne,Louisiana,1,0
+13/03/2020,Androscoggin,Maine,1,0
+13/03/2020,Cumberland,Maine,1,0
+13/03/2020,Anne Arundel,Maryland,1,0
+13/03/2020,Baltimore,Maryland,2,0
+13/03/2020,Charles,Maryland,1,0
+13/03/2020,Harford,Maryland,1,0
+13/03/2020,Montgomery,Maryland,6,0
+13/03/2020,Prince George's,Maryland,7,0
+13/03/2020,Berkshire,Massachusetts,9,0
+13/03/2020,Essex,Massachusetts,2,0
+13/03/2020,Middlesex,Massachusetts,60,0
+13/03/2020,Norfolk,Massachusetts,24,0
+13/03/2020,Suffolk,Massachusetts,26,0
+13/03/2020,Worcester,Massachusetts,2,0
+13/03/2020,Bay,Michigan,1,0
+13/03/2020,Charlevoix,Michigan,1,0
+13/03/2020,Ingham,Michigan,1,0
+13/03/2020,Kent,Michigan,3,0
+13/03/2020,Leelanau,Michigan,1,0
+13/03/2020,Macomb,Michigan,1,0
+13/03/2020,Montcalm,Michigan,1,0
+13/03/2020,Oakland,Michigan,6,0
+13/03/2020,St. Clair,Michigan,1,0
+13/03/2020,Washtenaw,Michigan,3,0
+13/03/2020,Wayne,Michigan,6,0
+13/03/2020,Anoka,Minnesota,1,0
+13/03/2020,Carver,Minnesota,1,0
+13/03/2020,Dakota,Minnesota,2,0
+13/03/2020,Hennepin,Minnesota,3,0
+13/03/2020,Olmsted,Minnesota,1,0
+13/03/2020,Ramsey,Minnesota,3,0
+13/03/2020,Stearns,Minnesota,2,0
+13/03/2020,Wright,Minnesota,1,0
+13/03/2020,Copiah,Mississippi,1,0
+13/03/2020,Forrest,Mississippi,3,0
+13/03/2020,Leflore,Mississippi,1,0
+13/03/2020,Pearl River,Mississippi,1,0
+13/03/2020,Greene,Missouri,1,0
+13/03/2020,Henry,Missouri,1,0
+13/03/2020,St. Louis,Missouri,2,0
+13/03/2020,Gallatin,Montana,1,0
+13/03/2020,Lewis and Clark,Montana,1,0
+13/03/2020,Silver Bow,Montana,1,0
+13/03/2020,Yellowstone,Montana,1,0
+13/03/2020,Cass,Nebraska,1,0
+13/03/2020,Douglas,Nebraska,26,0
+13/03/2020,Carson City,Nevada,1,0
+13/03/2020,Clark,Nevada,16,0
+13/03/2020,Washoe,Nevada,2,0
+13/03/2020,Grafton,New Hampshire,3,0
+13/03/2020,Rockingham,New Hampshire,4,0
+13/03/2020,Bergen,New Jersey,17,1
+13/03/2020,Burlington,New Jersey,3,0
+13/03/2020,Camden,New Jersey,2,0
+13/03/2020,Essex,New Jersey,6,0
+13/03/2020,Hudson,New Jersey,3,0
+13/03/2020,Middlesex,New Jersey,4,0
+13/03/2020,Monmouth,New Jersey,7,0
+13/03/2020,Morris,New Jersey,3,0
+13/03/2020,Ocean,New Jersey,1,0
+13/03/2020,Passaic,New Jersey,2,0
+13/03/2020,Union,New Jersey,1,0
+13/03/2020,Unknown,New Jersey,1,0
+13/03/2020,Bernalillo,New Mexico,5,0
+13/03/2020,Santa Fe,New Mexico,3,0
+13/03/2020,Socorro,New Mexico,2,0
+13/03/2020,Albany,New York,2,0
+13/03/2020,Delaware,New York,1,0
+13/03/2020,Dutchess,New York,3,0
+13/03/2020,Herkimer,New York,1,0
+13/03/2020,Monroe,New York,1,0
+13/03/2020,Nassau,New York,51,0
+13/03/2020,New York City,New York,155,0
+13/03/2020,Orange,New York,3,0
+13/03/2020,Rockland,New York,9,0
+13/03/2020,Saratoga,New York,3,0
+13/03/2020,Schenectady,New York,1,0
+13/03/2020,Suffolk,New York,29,0
+13/03/2020,Ulster,New York,5,0
+13/03/2020,Westchester,New York,157,0
+13/03/2020,Cabarrus,North Carolina,1,0
+13/03/2020,Chatham,North Carolina,1,0
+13/03/2020,Forsyth,North Carolina,2,0
+13/03/2020,Johnston,North Carolina,1,0
+13/03/2020,Mecklenburg,North Carolina,2,0
+13/03/2020,Onslow,North Carolina,1,0
+13/03/2020,Wake,North Carolina,9,0
+13/03/2020,Wayne,North Carolina,1,0
+13/03/2020,Ward,North Dakota,1,0
+13/03/2020,Cuyahoga,Ohio,11,0
+13/03/2020,Stark,Ohio,1,0
+13/03/2020,Trumbull,Ohio,1,0
+13/03/2020,Oklahoma,Oklahoma,1,0
+13/03/2020,Tulsa,Oklahoma,2,0
+13/03/2020,Clackamas,Oregon,1,0
+13/03/2020,Deschutes,Oregon,1,0
+13/03/2020,Douglas,Oregon,1,0
+13/03/2020,Jackson,Oregon,2,0
+13/03/2020,Klamath,Oregon,1,0
+13/03/2020,Linn,Oregon,8,0
+13/03/2020,Marion,Oregon,2,0
+13/03/2020,Multnomah,Oregon,1,0
+13/03/2020,Polk,Oregon,1,0
+13/03/2020,Umatilla,Oregon,2,0
+13/03/2020,Washington,Oregon,10,0
+13/03/2020,Bucks,Pennsylvania,3,0
+13/03/2020,Chester,Pennsylvania,1,0
+13/03/2020,Cumberland,Pennsylvania,3,0
+13/03/2020,Delaware,Pennsylvania,6,0
+13/03/2020,Monroe,Pennsylvania,3,0
+13/03/2020,Montgomery,Pennsylvania,18,0
+13/03/2020,Northampton,Pennsylvania,1,0
+13/03/2020,Philadelphia,Pennsylvania,3,0
+13/03/2020,Pike,Pennsylvania,1,0
+13/03/2020,Washington,Pennsylvania,1,0
+13/03/2020,Wayne,Pennsylvania,1,0
+13/03/2020,Unknown,Puerto Rico,3,0
+13/03/2020,Unknown,Rhode Island,20,0
+13/03/2020,Charleston,South Carolina,1,0
+13/03/2020,Kershaw,South Carolina,9,0
+13/03/2020,Lancaster,South Carolina,2,0
+13/03/2020,Spartanburg,South Carolina,1,0
+13/03/2020,Beadle,South Dakota,1,0
+13/03/2020,Bon Homme,South Dakota,1,0
+13/03/2020,Charles Mix,South Dakota,1,0
+13/03/2020,Davison,South Dakota,2,1
+13/03/2020,McCook,South Dakota,1,0
+13/03/2020,Minnehaha,South Dakota,3,0
+13/03/2020,Davidson,Tennessee,10,0
+13/03/2020,Hamilton,Tennessee,1,0
+13/03/2020,Jefferson,Tennessee,1,0
+13/03/2020,Knox,Tennessee,1,0
+13/03/2020,Rutherford,Tennessee,1,0
+13/03/2020,Shelby,Tennessee,2,0
+13/03/2020,Sullivan,Tennessee,1,0
+13/03/2020,Williamson,Tennessee,9,0
+13/03/2020,Bell,Texas,1,0
+13/03/2020,Bexar,Texas,11,0
+13/03/2020,Collin,Texas,5,0
+13/03/2020,Dallas,Texas,9,0
+13/03/2020,El Paso,Texas,1,0
+13/03/2020,Fort Bend,Texas,9,0
+13/03/2020,Galveston,Texas,1,0
+13/03/2020,Gregg,Texas,1,0
+13/03/2020,Harris,Texas,10,0
+13/03/2020,Montgomery,Texas,1,0
+13/03/2020,Smith,Texas,3,0
+13/03/2020,Tarrant,Texas,2,0
+13/03/2020,Travis,Texas,4,0
+13/03/2020,Davis,Utah,1,0
+13/03/2020,Salt Lake,Utah,4,0
+13/03/2020,Washington,Utah,1,0
+13/03/2020,Weber,Utah,1,0
+13/03/2020,Bennington,Vermont,1,0
+13/03/2020,Chittenden,Vermont,1,0
+13/03/2020,Alexandria city,Virginia,1,0
+13/03/2020,Arlington,Virginia,5,0
+13/03/2020,Fairfax,Virginia,6,0
+13/03/2020,Hanover,Virginia,1,0
+13/03/2020,Harrisonburg city,Virginia,1,0
+13/03/2020,James City,Virginia,8,0
+13/03/2020,Loudoun,Virginia,3,0
+13/03/2020,Prince Edward,Virginia,1,0
+13/03/2020,Prince William,Virginia,2,0
+13/03/2020,Virginia Beach city,Virginia,2,0
+13/03/2020,Chelan,Washington,1,1
+13/03/2020,Clark,Washington,3,0
+13/03/2020,Columbia,Washington,1,0
+13/03/2020,Grant,Washington,1,0
+13/03/2020,Grays Harbor,Washington,1,0
+13/03/2020,Island,Washington,3,0
+13/03/2020,Jefferson,Washington,1,0
+13/03/2020,King,Washington,329,33
+13/03/2020,Kitsap,Washington,3,0
+13/03/2020,Kittitas,Washington,3,0
+13/03/2020,Pierce,Washington,19,0
+13/03/2020,Skagit,Washington,3,0
+13/03/2020,Snohomish,Washington,132,3
+13/03/2020,Spokane,Washington,4,0
+13/03/2020,Thurston,Washington,3,0
+13/03/2020,Walla Walla,Washington,1,0
+13/03/2020,Whatcom,Washington,1,0
+13/03/2020,Yakima,Washington,2,0
+13/03/2020,Dane,Wisconsin,5,0
+13/03/2020,Fond du Lac,Wisconsin,6,0
+13/03/2020,Milwaukee,Wisconsin,2,0
+13/03/2020,Pierce,Wisconsin,1,0
+13/03/2020,Racine,Wisconsin,1,0
+13/03/2020,Sheboygan,Wisconsin,3,0
+13/03/2020,Waukesha,Wisconsin,1,0
+13/03/2020,Fremont,Wyoming,1,0
+13/03/2020,Sheridan,Wyoming,1,0
+14/03/2020,Baldwin,Alabama,1,0
+14/03/2020,Elmore,Alabama,1,0
+14/03/2020,Jefferson,Alabama,6,0
+14/03/2020,Limestone,Alabama,1,0
+14/03/2020,Montgomery,Alabama,1,0
+14/03/2020,Tuscaloosa,Alabama,2,0
+14/03/2020,Anchorage,Alaska,1,0
+14/03/2020,Graham,Arizona,1,0
+14/03/2020,Maricopa,Arizona,4,0
+14/03/2020,Pima,Arizona,2,0
+14/03/2020,Pinal,Arizona,5,0
+14/03/2020,Jefferson,Arkansas,2,0
+14/03/2020,Pulaski,Arkansas,7,0
+14/03/2020,Alameda,California,29,0
+14/03/2020,Contra Costa,California,25,0
+14/03/2020,Fresno,California,2,0
+14/03/2020,Humboldt,California,1,0
+14/03/2020,Los Angeles,California,53,1
+14/03/2020,Madera,California,1,0
+14/03/2020,Marin,California,4,0
+14/03/2020,Napa,California,1,0
+14/03/2020,Orange,California,14,0
+14/03/2020,Placer,California,8,1
+14/03/2020,Riverside,California,10,0
+14/03/2020,Sacramento,California,28,1
+14/03/2020,San Benito,California,1,0
+14/03/2020,San Diego,California,10,0
+14/03/2020,San Francisco,California,31,0
+14/03/2020,San Joaquin,California,8,0
+14/03/2020,San Luis Obispo,California,1,0
+14/03/2020,San Mateo,California,32,0
+14/03/2020,Santa Clara,California,91,2
+14/03/2020,Santa Cruz,California,2,0
+14/03/2020,Shasta,California,1,0
+14/03/2020,Solano,California,12,0
+14/03/2020,Sonoma,California,4,0
+14/03/2020,Stanislaus,California,2,0
+14/03/2020,Tulare,California,3,0
+14/03/2020,Ventura,California,5,0
+14/03/2020,Yolo,California,2,0
+14/03/2020,Adams,Colorado,6,0
+14/03/2020,Arapahoe,Colorado,10,0
+14/03/2020,Boulder,Colorado,1,0
+14/03/2020,Clear Creek,Colorado,1,0
+14/03/2020,Denver,Colorado,23,0
+14/03/2020,Douglas,Colorado,4,0
+14/03/2020,Eagle,Colorado,20,0
+14/03/2020,El Paso,Colorado,3,2
+14/03/2020,Gunnison,Colorado,7,0
+14/03/2020,Jefferson,Colorado,9,0
+14/03/2020,Larimer,Colorado,1,0
+14/03/2020,Mesa,Colorado,1,0
+14/03/2020,Pitkin,Colorado,11,0
+14/03/2020,Pueblo,Colorado,1,0
+14/03/2020,Routt,Colorado,1,0
+14/03/2020,Summit,Colorado,2,0
+14/03/2020,Weld,Colorado,2,0
+14/03/2020,Fairfield,Connecticut,15,0
+14/03/2020,Hartford,Connecticut,1,0
+14/03/2020,Litchfield,Connecticut,3,0
+14/03/2020,New Haven,Connecticut,1,0
+14/03/2020,New Castle,Delaware,4,0
+14/03/2020,District of Columbia,District of Columbia,16,0
+14/03/2020,Alachua,Florida,3,0
+14/03/2020,Broward,Florida,21,0
+14/03/2020,Charlotte,Florida,1,0
+14/03/2020,Clay,Florida,1,0
+14/03/2020,Collier,Florida,3,0
+14/03/2020,Duval,Florida,1,0
+14/03/2020,Hillsborough,Florida,3,0
+14/03/2020,Lee,Florida,4,2
+14/03/2020,Manatee,Florida,4,0
+14/03/2020,Miami-Dade,Florida,8,0
+14/03/2020,Nassau,Florida,1,0
+14/03/2020,Okaloosa,Florida,1,0
+14/03/2020,Orange,Florida,1,0
+14/03/2020,Osceola,Florida,1,0
+14/03/2020,Palm Beach,Florida,5,0
+14/03/2020,Pasco,Florida,1,0
+14/03/2020,Pinellas,Florida,2,0
+14/03/2020,Santa Rosa,Florida,1,1
+14/03/2020,Sarasota,Florida,2,0
+14/03/2020,Seminole,Florida,1,0
+14/03/2020,St. Johns,Florida,1,0
+14/03/2020,Volusia,Florida,4,0
+14/03/2020,Bartow,Georgia,7,0
+14/03/2020,Charlton,Georgia,1,0
+14/03/2020,Cherokee,Georgia,4,0
+14/03/2020,Cobb,Georgia,15,1
+14/03/2020,Coweta,Georgia,2,0
+14/03/2020,DeKalb,Georgia,8,0
+14/03/2020,Fayette,Georgia,4,0
+14/03/2020,Floyd,Georgia,3,0
+14/03/2020,Fulton,Georgia,13,0
+14/03/2020,Gordon,Georgia,2,0
+14/03/2020,Gwinnett,Georgia,2,0
+14/03/2020,Henry,Georgia,1,0
+14/03/2020,Lee,Georgia,1,0
+14/03/2020,Lowndes,Georgia,1,0
+14/03/2020,Polk,Georgia,1,0
+14/03/2020,Honolulu,Hawaii,2,0
+14/03/2020,Kauai,Hawaii,2,0
+14/03/2020,Ada,Idaho,2,0
+14/03/2020,Blaine,Idaho,2,0
+14/03/2020,Teton,Idaho,1,0
+14/03/2020,Cook,Illinois,51,0
+14/03/2020,Cumberland,Illinois,1,0
+14/03/2020,DuPage,Illinois,1,0
+14/03/2020,Kane,Illinois,3,0
+14/03/2020,Lake,Illinois,3,0
+14/03/2020,McHenry,Illinois,2,0
+14/03/2020,Sangamon,Illinois,2,0
+14/03/2020,St. Clair,Illinois,2,0
+14/03/2020,Woodford,Illinois,1,0
+14/03/2020,Adams,Indiana,1,0
+14/03/2020,Boone,Indiana,1,0
+14/03/2020,Hendricks,Indiana,2,0
+14/03/2020,Howard,Indiana,1,0
+14/03/2020,Johnson,Indiana,3,0
+14/03/2020,LaPorte,Indiana,1,0
+14/03/2020,Marion,Indiana,3,0
+14/03/2020,Noble,Indiana,1,0
+14/03/2020,St. Joseph,Indiana,1,0
+14/03/2020,Wells,Indiana,1,0
+14/03/2020,Carroll,Iowa,1,0
+14/03/2020,Dallas,Iowa,1,0
+14/03/2020,Harrison,Iowa,1,0
+14/03/2020,Johnson,Iowa,14,0
+14/03/2020,Pottawattamie,Iowa,1,0
+14/03/2020,Butler,Kansas,1,0
+14/03/2020,Franklin,Kansas,1,0
+14/03/2020,Johnson,Kansas,5,0
+14/03/2020,Wyandotte,Kansas,1,1
+14/03/2020,Bourbon,Kentucky,1,0
+14/03/2020,Fayette,Kentucky,5,0
+14/03/2020,Harrison,Kentucky,6,0
+14/03/2020,Jefferson,Kentucky,4,0
+14/03/2020,Montgomery,Kentucky,1,0
+14/03/2020,Nelson,Kentucky,1,0
+14/03/2020,Bossier,Louisiana,1,0
+14/03/2020,Caddo,Louisiana,2,0
+14/03/2020,Jefferson,Louisiana,11,0
+14/03/2020,Lafourche,Louisiana,1,0
+14/03/2020,Orleans,Louisiana,53,1
+14/03/2020,St. Charles,Louisiana,2,0
+14/03/2020,St. John the Baptist,Louisiana,1,0
+14/03/2020,St. Tammany,Louisiana,4,0
+14/03/2020,Terrebonne,Louisiana,2,0
+14/03/2020,Androscoggin,Maine,1,0
+14/03/2020,Cumberland,Maine,2,0
+14/03/2020,Anne Arundel,Maryland,1,0
+14/03/2020,Baltimore,Maryland,3,0
+14/03/2020,Carroll,Maryland,1,0
+14/03/2020,Charles,Maryland,1,0
+14/03/2020,Harford,Maryland,2,0
+14/03/2020,Montgomery,Maryland,12,0
+14/03/2020,Prince George's,Maryland,7,0
+14/03/2020,Barnstable,Massachusetts,1,0
+14/03/2020,Berkshire,Massachusetts,9,0
+14/03/2020,Bristol,Massachusetts,1,0
+14/03/2020,Essex,Massachusetts,5,0
+14/03/2020,Middlesex,Massachusetts,65,0
+14/03/2020,Norfolk,Massachusetts,28,0
+14/03/2020,Suffolk,Massachusetts,27,0
+14/03/2020,Worcester,Massachusetts,2,0
+14/03/2020,Bay,Michigan,1,0
+14/03/2020,Charlevoix,Michigan,1,0
+14/03/2020,Ingham,Michigan,1,0
+14/03/2020,Kent,Michigan,3,0
+14/03/2020,Leelanau,Michigan,1,0
+14/03/2020,Macomb,Michigan,2,0
+14/03/2020,Monroe,Michigan,1,0
+14/03/2020,Montcalm,Michigan,1,0
+14/03/2020,Oakland,Michigan,9,0
+14/03/2020,St. Clair,Michigan,1,0
+14/03/2020,Washtenaw,Michigan,4,0
+14/03/2020,Wayne,Michigan,8,0
+14/03/2020,Anoka,Minnesota,2,0
+14/03/2020,Carver,Minnesota,1,0
+14/03/2020,Dakota,Minnesota,2,0
+14/03/2020,Hennepin,Minnesota,6,0
+14/03/2020,Olmsted,Minnesota,1,0
+14/03/2020,Ramsey,Minnesota,4,0
+14/03/2020,Renville,Minnesota,1,0
+14/03/2020,Stearns,Minnesota,3,0
+14/03/2020,Wright,Minnesota,1,0
+14/03/2020,Copiah,Mississippi,1,0
+14/03/2020,Forrest,Mississippi,3,0
+14/03/2020,Leflore,Mississippi,1,0
+14/03/2020,Pearl River,Mississippi,1,0
+14/03/2020,Greene,Missouri,2,0
+14/03/2020,Henry,Missouri,1,0
+14/03/2020,St. Louis,Missouri,2,0
+14/03/2020,Gallatin,Montana,1,0
+14/03/2020,Lewis and Clark,Montana,1,0
+14/03/2020,Missoula,Montana,2,0
+14/03/2020,Silver Bow,Montana,1,0
+14/03/2020,Yellowstone,Montana,1,0
+14/03/2020,Cass,Nebraska,1,0
+14/03/2020,Douglas,Nebraska,28,0
+14/03/2020,Carson City,Nevada,1,0
+14/03/2020,Clark,Nevada,16,0
+14/03/2020,Washoe,Nevada,4,0
+14/03/2020,Grafton,New Hampshire,3,0
+14/03/2020,Rockingham,New Hampshire,4,0
+14/03/2020,Bergen,New Jersey,31,1
+14/03/2020,Burlington,New Jersey,3,0
+14/03/2020,Camden,New Jersey,2,0
+14/03/2020,Essex,New Jersey,7,0
+14/03/2020,Hudson,New Jersey,5,0
+14/03/2020,Mercer,New Jersey,1,0
+14/03/2020,Middlesex,New Jersey,8,0
+14/03/2020,Monmouth,New Jersey,8,1
+14/03/2020,Morris,New Jersey,5,0
+14/03/2020,Ocean,New Jersey,1,0
+14/03/2020,Passaic,New Jersey,2,0
+14/03/2020,Union,New Jersey,1,0
+14/03/2020,Unknown,New Jersey,1,0
+14/03/2020,Bernalillo,New Mexico,6,0
+14/03/2020,Sandoval,New Mexico,2,0
+14/03/2020,Santa Fe,New Mexico,3,0
+14/03/2020,Socorro,New Mexico,2,0
+14/03/2020,Albany,New York,5,0
+14/03/2020,Broome,New York,1,0
+14/03/2020,Delaware,New York,1,0
+14/03/2020,Dutchess,New York,4,0
+14/03/2020,Herkimer,New York,1,0
+14/03/2020,Monroe,New York,2,0
+14/03/2020,Nassau,New York,79,0
+14/03/2020,New York City,New York,269,1
+14/03/2020,Orange,New York,6,0
+14/03/2020,Rockland,New York,12,1
+14/03/2020,Saratoga,New York,3,0
+14/03/2020,Schenectady,New York,1,0
+14/03/2020,Suffolk,New York,41,0
+14/03/2020,Tioga,New York,1,0
+14/03/2020,Tompkins,New York,1,0
+14/03/2020,Ulster,New York,5,0
+14/03/2020,Westchester,New York,178,0
+14/03/2020,Brunswick,North Carolina,1,0
+14/03/2020,Cabarrus,North Carolina,1,0
+14/03/2020,Chatham,North Carolina,1,0
+14/03/2020,Craven,North Carolina,1,0
+14/03/2020,Forsyth,North Carolina,2,0
+14/03/2020,Harnett,North Carolina,2,0
+14/03/2020,Johnston,North Carolina,2,0
+14/03/2020,Mecklenburg,North Carolina,2,0
+14/03/2020,Onslow,North Carolina,1,0
+14/03/2020,Wake,North Carolina,11,0
+14/03/2020,Wayne,North Carolina,1,0
+14/03/2020,Ward,North Dakota,1,0
+14/03/2020,Belmont,Ohio,2,0
+14/03/2020,Butler,Ohio,4,0
+14/03/2020,Cuyahoga,Ohio,11,0
+14/03/2020,Franklin,Ohio,1,0
+14/03/2020,Lorain,Ohio,1,0
+14/03/2020,Stark,Ohio,2,0
+14/03/2020,Summit,Ohio,2,0
+14/03/2020,Trumbull,Ohio,2,0
+14/03/2020,Tuscarawas,Ohio,1,0
+14/03/2020,Jackson,Oklahoma,1,0
+14/03/2020,Oklahoma,Oklahoma,1,0
+14/03/2020,Tulsa,Oklahoma,2,0
+14/03/2020,Clackamas,Oregon,1,0
+14/03/2020,Deschutes,Oregon,3,0
+14/03/2020,Douglas,Oregon,1,0
+14/03/2020,Jackson,Oregon,2,0
+14/03/2020,Klamath,Oregon,1,0
+14/03/2020,Linn,Oregon,9,0
+14/03/2020,Marion,Oregon,2,0
+14/03/2020,Multnomah,Oregon,1,1
+14/03/2020,Polk,Oregon,1,0
+14/03/2020,Umatilla,Oregon,2,0
+14/03/2020,Washington,Oregon,13,0
+14/03/2020,Allegheny,Pennsylvania,1,0
+14/03/2020,Bucks,Pennsylvania,4,0
+14/03/2020,Chester,Pennsylvania,2,0
+14/03/2020,Cumberland,Pennsylvania,3,0
+14/03/2020,Delaware,Pennsylvania,6,0
+14/03/2020,Monroe,Pennsylvania,3,0
+14/03/2020,Montgomery,Pennsylvania,20,0
+14/03/2020,Northampton,Pennsylvania,1,0
+14/03/2020,Philadelphia,Pennsylvania,4,0
+14/03/2020,Pike,Pennsylvania,1,0
+14/03/2020,Washington,Pennsylvania,1,0
+14/03/2020,Wayne,Pennsylvania,1,0
+14/03/2020,Unknown,Puerto Rico,4,0
+14/03/2020,Unknown,Rhode Island,20,0
+14/03/2020,Beaufort,South Carolina,3,0
+14/03/2020,Charleston,South Carolina,1,0
+14/03/2020,Kershaw,South Carolina,11,0
+14/03/2020,Lancaster,South Carolina,2,0
+14/03/2020,Lexington,South Carolina,1,0
+14/03/2020,Spartanburg,South Carolina,1,0
+14/03/2020,Beadle,South Dakota,1,0
+14/03/2020,Bon Homme,South Dakota,1,0
+14/03/2020,Charles Mix,South Dakota,1,0
+14/03/2020,Davison,South Dakota,2,1
+14/03/2020,McCook,South Dakota,1,0
+14/03/2020,Minnehaha,South Dakota,3,0
+14/03/2020,Campbell,Tennessee,1,0
+14/03/2020,Davidson,Tennessee,14,0
+14/03/2020,Hamilton,Tennessee,1,0
+14/03/2020,Jefferson,Tennessee,1,0
+14/03/2020,Knox,Tennessee,1,0
+14/03/2020,Rutherford,Tennessee,1,0
+14/03/2020,Shelby,Tennessee,2,0
+14/03/2020,Sullivan,Tennessee,1,0
+14/03/2020,Williamson,Tennessee,10,0
+14/03/2020,Bell,Texas,1,0
+14/03/2020,Bexar,Texas,12,0
+14/03/2020,Brazoria,Texas,2,0
+14/03/2020,Collin,Texas,7,0
+14/03/2020,Dallas,Texas,11,0
+14/03/2020,El Paso,Texas,1,0
+14/03/2020,Fort Bend,Texas,9,0
+14/03/2020,Galveston,Texas,1,0
+14/03/2020,Gregg,Texas,1,0
+14/03/2020,Harris,Texas,11,0
+14/03/2020,Hays,Texas,1,0
+14/03/2020,Montgomery,Texas,1,0
+14/03/2020,Smith,Texas,3,0
+14/03/2020,Tarrant,Texas,4,0
+14/03/2020,Travis,Texas,4,0

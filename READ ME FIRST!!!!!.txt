@@ -1,0 +1,21 @@
+Copy all the files in your react app
+
+Create a database in Mongo db called CovidData and CovidCollection
+
+open Terminal in Vs
+
+cd backend
+npm i to install all dependencies
+node server.js  
+
+Open Second Terminal
+
+
+cd frontend
+run command npm i to install all dependecies
+cd covid_data_app
+run command npm i to install all dependecies
+npm start
+ 
+
+Everything should be fine. :D
